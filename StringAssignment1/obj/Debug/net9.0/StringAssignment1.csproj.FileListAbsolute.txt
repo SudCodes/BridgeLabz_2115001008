@@ -1,0 +1,15 @@
+D:\Capgemini-Tranning\Assignments\Assignment6\StringAssignment1\bin\Debug\net9.0\StringAssignment1.exe
+D:\Capgemini-Tranning\Assignments\Assignment6\StringAssignment1\bin\Debug\net9.0\StringAssignment1.deps.json
+D:\Capgemini-Tranning\Assignments\Assignment6\StringAssignment1\bin\Debug\net9.0\StringAssignment1.runtimeconfig.json
+D:\Capgemini-Tranning\Assignments\Assignment6\StringAssignment1\bin\Debug\net9.0\StringAssignment1.dll
+D:\Capgemini-Tranning\Assignments\Assignment6\StringAssignment1\bin\Debug\net9.0\StringAssignment1.pdb
+D:\Capgemini-Tranning\Assignments\Assignment6\StringAssignment1\obj\Debug\net9.0\StringAssignment1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini-Tranning\Assignments\Assignment6\StringAssignment1\obj\Debug\net9.0\StringAssignment1.AssemblyInfoInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment6\StringAssignment1\obj\Debug\net9.0\StringAssignment1.AssemblyInfo.cs
+D:\Capgemini-Tranning\Assignments\Assignment6\StringAssignment1\obj\Debug\net9.0\StringAssignment1.csproj.CoreCompileInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment6\StringAssignment1\obj\Debug\net9.0\StringAssignment1.sourcelink.json
+D:\Capgemini-Tranning\Assignments\Assignment6\StringAssignment1\obj\Debug\net9.0\StringAssignment1.dll
+D:\Capgemini-Tranning\Assignments\Assignment6\StringAssignment1\obj\Debug\net9.0\refint\StringAssignment1.dll
+D:\Capgemini-Tranning\Assignments\Assignment6\StringAssignment1\obj\Debug\net9.0\StringAssignment1.pdb
+D:\Capgemini-Tranning\Assignments\Assignment6\StringAssignment1\obj\Debug\net9.0\StringAssignment1.genruntimeconfig.cache
+D:\Capgemini-Tranning\Assignments\Assignment6\StringAssignment1\obj\Debug\net9.0\ref\StringAssignment1.dll
