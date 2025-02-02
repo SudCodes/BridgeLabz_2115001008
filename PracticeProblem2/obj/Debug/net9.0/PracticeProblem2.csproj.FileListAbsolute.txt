@@ -1,0 +1,15 @@
+D:\Capgemini-Tranning\Assignments\Assignment6\PracticeProblem2\bin\Debug\net9.0\PracticeProblem2.exe
+D:\Capgemini-Tranning\Assignments\Assignment6\PracticeProblem2\bin\Debug\net9.0\PracticeProblem2.deps.json
+D:\Capgemini-Tranning\Assignments\Assignment6\PracticeProblem2\bin\Debug\net9.0\PracticeProblem2.runtimeconfig.json
+D:\Capgemini-Tranning\Assignments\Assignment6\PracticeProblem2\bin\Debug\net9.0\PracticeProblem2.dll
+D:\Capgemini-Tranning\Assignments\Assignment6\PracticeProblem2\bin\Debug\net9.0\PracticeProblem2.pdb
+D:\Capgemini-Tranning\Assignments\Assignment6\PracticeProblem2\obj\Debug\net9.0\PracticeProblem2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini-Tranning\Assignments\Assignment6\PracticeProblem2\obj\Debug\net9.0\PracticeProblem2.AssemblyInfoInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment6\PracticeProblem2\obj\Debug\net9.0\PracticeProblem2.AssemblyInfo.cs
+D:\Capgemini-Tranning\Assignments\Assignment6\PracticeProblem2\obj\Debug\net9.0\PracticeProblem2.csproj.CoreCompileInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment6\PracticeProblem2\obj\Debug\net9.0\PracticeProblem2.sourcelink.json
+D:\Capgemini-Tranning\Assignments\Assignment6\PracticeProblem2\obj\Debug\net9.0\PracticeProblem2.dll
+D:\Capgemini-Tranning\Assignments\Assignment6\PracticeProblem2\obj\Debug\net9.0\refint\PracticeProblem2.dll
+D:\Capgemini-Tranning\Assignments\Assignment6\PracticeProblem2\obj\Debug\net9.0\PracticeProblem2.pdb
+D:\Capgemini-Tranning\Assignments\Assignment6\PracticeProblem2\obj\Debug\net9.0\PracticeProblem2.genruntimeconfig.cache
+D:\Capgemini-Tranning\Assignments\Assignment6\PracticeProblem2\obj\Debug\net9.0\ref\PracticeProblem2.dll
