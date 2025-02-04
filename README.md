@@ -49,4 +49,21 @@
 - Completed Level 3 assignment, focusing on multiple method calls with and without static methods.
 - Learned about Strings and Strings function in c# 
 - Strengthened understanding of methods, module bonding, and interdependencies within and between C# classes.
+## Task 9: DATE: 29-01-2025
+* Read about C# String Methods and String Handling concepts and read about string Methods
+* Practiced Problem Statements based on String.
+
+## Task 10: DATE: 30-01-2025
+* Read about C# String Built-in Methods and Read about Exception Handling and its types .
+* Practiced problem based on Type1 based on Built-in functions like DATE and TIME.
+* Practiced problem based on Type2 based on Palindrome, fibonacci,etc.
+
+## Task 11: DATE: 31-01-2025
+* Read about OOPs Overview,Advantages of OOPs and Comparison Between Procedural Programming and OOP.
+* Read about C# Class and and C# Objectand read some Practice Problems Examples.
+* Practiced problem based on OOPs of Class and Object based on Level 1.
+
+## Task 12: DATE: 01-02-2025
+* Read about C# Constructors and instance v/s class Variables and read about access Modifier concepts.
+* Practiced problems based on these concepts based on Level 1.
 
