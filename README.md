@@ -67,3 +67,16 @@
 * Read about C# Constructors and instance v/s class Variables and read about access Modifier concepts.
 * Practiced problems based on these concepts based on Level 1.
 
+## Task 13: DATE: 03-02-2025
+* Read about C# this keyword and final keyword or say sealed keyword
+* Practiced problems Like Banking Account System and Library Management System.
+
+## Task 14: DATE: 04-02-2025
+* Read about C# constructor and this keyword in detail from dotnet.tutorials .
+* Practiced problems based on the concepts of this and sealed keyword.
+
+## Task 15: DATE: 05-02-2025
+* Read about C# OOPs concepts of Aggregation,Association and composition.
+* Read about  their combinations too like Aggregation with Association and so on.
+* Practiced problems based on the above concepts.
+
