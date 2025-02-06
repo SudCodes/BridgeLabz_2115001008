@@ -1,0 +1,15 @@
+D:\Capgemini-Tranning\Assignments\Assignment10\UniversityManagementSystem\bin\Debug\net6.0\UniversityManagementSystem.exe
+D:\Capgemini-Tranning\Assignments\Assignment10\UniversityManagementSystem\bin\Debug\net6.0\UniversityManagementSystem.deps.json
+D:\Capgemini-Tranning\Assignments\Assignment10\UniversityManagementSystem\bin\Debug\net6.0\UniversityManagementSystem.runtimeconfig.json
+D:\Capgemini-Tranning\Assignments\Assignment10\UniversityManagementSystem\bin\Debug\net6.0\UniversityManagementSystem.dll
+D:\Capgemini-Tranning\Assignments\Assignment10\UniversityManagementSystem\bin\Debug\net6.0\UniversityManagementSystem.pdb
+D:\Capgemini-Tranning\Assignments\Assignment10\UniversityManagementSystem\obj\Debug\net6.0\UniversityManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini-Tranning\Assignments\Assignment10\UniversityManagementSystem\obj\Debug\net6.0\UniversityManagementSystem.AssemblyInfoInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment10\UniversityManagementSystem\obj\Debug\net6.0\UniversityManagementSystem.AssemblyInfo.cs
+D:\Capgemini-Tranning\Assignments\Assignment10\UniversityManagementSystem\obj\Debug\net6.0\UniversityManagementSystem.csproj.CoreCompileInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment10\UniversityManagementSystem\obj\Debug\net6.0\UniversityManagementSystem.sourcelink.json
+D:\Capgemini-Tranning\Assignments\Assignment10\UniversityManagementSystem\obj\Debug\net6.0\UniversityManagementSystem.dll
+D:\Capgemini-Tranning\Assignments\Assignment10\UniversityManagementSystem\obj\Debug\net6.0\refint\UniversityManagementSystem.dll
+D:\Capgemini-Tranning\Assignments\Assignment10\UniversityManagementSystem\obj\Debug\net6.0\UniversityManagementSystem.pdb
+D:\Capgemini-Tranning\Assignments\Assignment10\UniversityManagementSystem\obj\Debug\net6.0\UniversityManagementSystem.genruntimeconfig.cache
+D:\Capgemini-Tranning\Assignments\Assignment10\UniversityManagementSystem\obj\Debug\net6.0\ref\UniversityManagementSystem.dll

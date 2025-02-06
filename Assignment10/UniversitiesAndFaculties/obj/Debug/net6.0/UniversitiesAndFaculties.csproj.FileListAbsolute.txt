@@ -1,0 +1,15 @@
+D:\Capgemini-Tranning\Assignments\Assignment10\UniversitiesAndFaculties\bin\Debug\net6.0\UniversitiesAndFaculties.exe
+D:\Capgemini-Tranning\Assignments\Assignment10\UniversitiesAndFaculties\bin\Debug\net6.0\UniversitiesAndFaculties.deps.json
+D:\Capgemini-Tranning\Assignments\Assignment10\UniversitiesAndFaculties\bin\Debug\net6.0\UniversitiesAndFaculties.runtimeconfig.json
+D:\Capgemini-Tranning\Assignments\Assignment10\UniversitiesAndFaculties\bin\Debug\net6.0\UniversitiesAndFaculties.dll
+D:\Capgemini-Tranning\Assignments\Assignment10\UniversitiesAndFaculties\bin\Debug\net6.0\UniversitiesAndFaculties.pdb
+D:\Capgemini-Tranning\Assignments\Assignment10\UniversitiesAndFaculties\obj\Debug\net6.0\UniversitiesAndFaculties.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini-Tranning\Assignments\Assignment10\UniversitiesAndFaculties\obj\Debug\net6.0\UniversitiesAndFaculties.AssemblyInfoInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment10\UniversitiesAndFaculties\obj\Debug\net6.0\UniversitiesAndFaculties.AssemblyInfo.cs
+D:\Capgemini-Tranning\Assignments\Assignment10\UniversitiesAndFaculties\obj\Debug\net6.0\UniversitiesAndFaculties.csproj.CoreCompileInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment10\UniversitiesAndFaculties\obj\Debug\net6.0\UniversitiesAndFaculties.sourcelink.json
+D:\Capgemini-Tranning\Assignments\Assignment10\UniversitiesAndFaculties\obj\Debug\net6.0\UniversitiesAndFaculties.dll
+D:\Capgemini-Tranning\Assignments\Assignment10\UniversitiesAndFaculties\obj\Debug\net6.0\refint\UniversitiesAndFaculties.dll
+D:\Capgemini-Tranning\Assignments\Assignment10\UniversitiesAndFaculties\obj\Debug\net6.0\UniversitiesAndFaculties.pdb
+D:\Capgemini-Tranning\Assignments\Assignment10\UniversitiesAndFaculties\obj\Debug\net6.0\UniversitiesAndFaculties.genruntimeconfig.cache
+D:\Capgemini-Tranning\Assignments\Assignment10\UniversitiesAndFaculties\obj\Debug\net6.0\ref\UniversitiesAndFaculties.dll

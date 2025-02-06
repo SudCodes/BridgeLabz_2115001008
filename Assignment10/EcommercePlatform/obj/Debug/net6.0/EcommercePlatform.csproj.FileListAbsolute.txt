@@ -1,0 +1,15 @@
+D:\Capgemini-Tranning\Assignments\Assignment10\EcommercePlatform\bin\Debug\net6.0\EcommercePlatform.exe
+D:\Capgemini-Tranning\Assignments\Assignment10\EcommercePlatform\bin\Debug\net6.0\EcommercePlatform.deps.json
+D:\Capgemini-Tranning\Assignments\Assignment10\EcommercePlatform\bin\Debug\net6.0\EcommercePlatform.runtimeconfig.json
+D:\Capgemini-Tranning\Assignments\Assignment10\EcommercePlatform\bin\Debug\net6.0\EcommercePlatform.dll
+D:\Capgemini-Tranning\Assignments\Assignment10\EcommercePlatform\bin\Debug\net6.0\EcommercePlatform.pdb
+D:\Capgemini-Tranning\Assignments\Assignment10\EcommercePlatform\obj\Debug\net6.0\EcommercePlatform.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini-Tranning\Assignments\Assignment10\EcommercePlatform\obj\Debug\net6.0\EcommercePlatform.AssemblyInfoInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment10\EcommercePlatform\obj\Debug\net6.0\EcommercePlatform.AssemblyInfo.cs
+D:\Capgemini-Tranning\Assignments\Assignment10\EcommercePlatform\obj\Debug\net6.0\EcommercePlatform.csproj.CoreCompileInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment10\EcommercePlatform\obj\Debug\net6.0\EcommercePlatform.sourcelink.json
+D:\Capgemini-Tranning\Assignments\Assignment10\EcommercePlatform\obj\Debug\net6.0\EcommercePlatform.dll
+D:\Capgemini-Tranning\Assignments\Assignment10\EcommercePlatform\obj\Debug\net6.0\refint\EcommercePlatform.dll
+D:\Capgemini-Tranning\Assignments\Assignment10\EcommercePlatform\obj\Debug\net6.0\EcommercePlatform.pdb
+D:\Capgemini-Tranning\Assignments\Assignment10\EcommercePlatform\obj\Debug\net6.0\EcommercePlatform.genruntimeconfig.cache
+D:\Capgemini-Tranning\Assignments\Assignment10\EcommercePlatform\obj\Debug\net6.0\ref\EcommercePlatform.dll

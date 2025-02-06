@@ -1,0 +1,15 @@
+D:\Capgemini-Tranning\Assignments\Assignment10\HospitalDoctorsAndPatients\bin\Debug\net6.0\HospitalDoctorsAndPatients.exe
+D:\Capgemini-Tranning\Assignments\Assignment10\HospitalDoctorsAndPatients\bin\Debug\net6.0\HospitalDoctorsAndPatients.deps.json
+D:\Capgemini-Tranning\Assignments\Assignment10\HospitalDoctorsAndPatients\bin\Debug\net6.0\HospitalDoctorsAndPatients.runtimeconfig.json
+D:\Capgemini-Tranning\Assignments\Assignment10\HospitalDoctorsAndPatients\bin\Debug\net6.0\HospitalDoctorsAndPatients.dll
+D:\Capgemini-Tranning\Assignments\Assignment10\HospitalDoctorsAndPatients\bin\Debug\net6.0\HospitalDoctorsAndPatients.pdb
+D:\Capgemini-Tranning\Assignments\Assignment10\HospitalDoctorsAndPatients\obj\Debug\net6.0\HospitalDoctorsAndPatients.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini-Tranning\Assignments\Assignment10\HospitalDoctorsAndPatients\obj\Debug\net6.0\HospitalDoctorsAndPatients.AssemblyInfoInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment10\HospitalDoctorsAndPatients\obj\Debug\net6.0\HospitalDoctorsAndPatients.AssemblyInfo.cs
+D:\Capgemini-Tranning\Assignments\Assignment10\HospitalDoctorsAndPatients\obj\Debug\net6.0\HospitalDoctorsAndPatients.csproj.CoreCompileInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment10\HospitalDoctorsAndPatients\obj\Debug\net6.0\HospitalDoctorsAndPatients.sourcelink.json
+D:\Capgemini-Tranning\Assignments\Assignment10\HospitalDoctorsAndPatients\obj\Debug\net6.0\HospitalDoctorsAndPatients.dll
+D:\Capgemini-Tranning\Assignments\Assignment10\HospitalDoctorsAndPatients\obj\Debug\net6.0\refint\HospitalDoctorsAndPatients.dll
+D:\Capgemini-Tranning\Assignments\Assignment10\HospitalDoctorsAndPatients\obj\Debug\net6.0\HospitalDoctorsAndPatients.pdb
+D:\Capgemini-Tranning\Assignments\Assignment10\HospitalDoctorsAndPatients\obj\Debug\net6.0\HospitalDoctorsAndPatients.genruntimeconfig.cache
+D:\Capgemini-Tranning\Assignments\Assignment10\HospitalDoctorsAndPatients\obj\Debug\net6.0\ref\HospitalDoctorsAndPatients.dll

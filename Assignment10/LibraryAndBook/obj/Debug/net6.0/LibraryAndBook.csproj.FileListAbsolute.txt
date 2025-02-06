@@ -1,0 +1,15 @@
+D:\Capgemini-Tranning\Assignments\Assignment10\LibraryAndBook\bin\Debug\net6.0\LibraryAndBook.exe
+D:\Capgemini-Tranning\Assignments\Assignment10\LibraryAndBook\bin\Debug\net6.0\LibraryAndBook.deps.json
+D:\Capgemini-Tranning\Assignments\Assignment10\LibraryAndBook\bin\Debug\net6.0\LibraryAndBook.runtimeconfig.json
+D:\Capgemini-Tranning\Assignments\Assignment10\LibraryAndBook\bin\Debug\net6.0\LibraryAndBook.dll
+D:\Capgemini-Tranning\Assignments\Assignment10\LibraryAndBook\bin\Debug\net6.0\LibraryAndBook.pdb
+D:\Capgemini-Tranning\Assignments\Assignment10\LibraryAndBook\obj\Debug\net6.0\LibraryAndBook.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini-Tranning\Assignments\Assignment10\LibraryAndBook\obj\Debug\net6.0\LibraryAndBook.AssemblyInfoInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment10\LibraryAndBook\obj\Debug\net6.0\LibraryAndBook.AssemblyInfo.cs
+D:\Capgemini-Tranning\Assignments\Assignment10\LibraryAndBook\obj\Debug\net6.0\LibraryAndBook.csproj.CoreCompileInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment10\LibraryAndBook\obj\Debug\net6.0\LibraryAndBook.sourcelink.json
+D:\Capgemini-Tranning\Assignments\Assignment10\LibraryAndBook\obj\Debug\net6.0\LibraryAndBook.dll
+D:\Capgemini-Tranning\Assignments\Assignment10\LibraryAndBook\obj\Debug\net6.0\refint\LibraryAndBook.dll
+D:\Capgemini-Tranning\Assignments\Assignment10\LibraryAndBook\obj\Debug\net6.0\LibraryAndBook.pdb
+D:\Capgemini-Tranning\Assignments\Assignment10\LibraryAndBook\obj\Debug\net6.0\LibraryAndBook.genruntimeconfig.cache
+D:\Capgemini-Tranning\Assignments\Assignment10\LibraryAndBook\obj\Debug\net6.0\ref\LibraryAndBook.dll
