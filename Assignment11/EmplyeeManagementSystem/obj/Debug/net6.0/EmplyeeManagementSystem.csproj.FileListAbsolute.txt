@@ -1,0 +1,15 @@
+D:\Capgemini-Tranning\Assignments\Assignment11\EmplyeeManagementSystem\bin\Debug\net6.0\EmplyeeManagementSystem.exe
+D:\Capgemini-Tranning\Assignments\Assignment11\EmplyeeManagementSystem\bin\Debug\net6.0\EmplyeeManagementSystem.deps.json
+D:\Capgemini-Tranning\Assignments\Assignment11\EmplyeeManagementSystem\bin\Debug\net6.0\EmplyeeManagementSystem.runtimeconfig.json
+D:\Capgemini-Tranning\Assignments\Assignment11\EmplyeeManagementSystem\bin\Debug\net6.0\EmplyeeManagementSystem.dll
+D:\Capgemini-Tranning\Assignments\Assignment11\EmplyeeManagementSystem\bin\Debug\net6.0\EmplyeeManagementSystem.pdb
+D:\Capgemini-Tranning\Assignments\Assignment11\EmplyeeManagementSystem\obj\Debug\net6.0\EmplyeeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini-Tranning\Assignments\Assignment11\EmplyeeManagementSystem\obj\Debug\net6.0\EmplyeeManagementSystem.AssemblyInfoInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment11\EmplyeeManagementSystem\obj\Debug\net6.0\EmplyeeManagementSystem.AssemblyInfo.cs
+D:\Capgemini-Tranning\Assignments\Assignment11\EmplyeeManagementSystem\obj\Debug\net6.0\EmplyeeManagementSystem.csproj.CoreCompileInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment11\EmplyeeManagementSystem\obj\Debug\net6.0\EmplyeeManagementSystem.sourcelink.json
+D:\Capgemini-Tranning\Assignments\Assignment11\EmplyeeManagementSystem\obj\Debug\net6.0\EmplyeeManagementSystem.dll
+D:\Capgemini-Tranning\Assignments\Assignment11\EmplyeeManagementSystem\obj\Debug\net6.0\refint\EmplyeeManagementSystem.dll
+D:\Capgemini-Tranning\Assignments\Assignment11\EmplyeeManagementSystem\obj\Debug\net6.0\EmplyeeManagementSystem.pdb
+D:\Capgemini-Tranning\Assignments\Assignment11\EmplyeeManagementSystem\obj\Debug\net6.0\EmplyeeManagementSystem.genruntimeconfig.cache
+D:\Capgemini-Tranning\Assignments\Assignment11\EmplyeeManagementSystem\obj\Debug\net6.0\ref\EmplyeeManagementSystem.dll

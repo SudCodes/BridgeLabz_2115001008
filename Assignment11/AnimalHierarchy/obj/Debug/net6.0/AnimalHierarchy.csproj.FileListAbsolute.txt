@@ -1,0 +1,15 @@
+D:\Capgemini-Tranning\Assignments\Assignment11\AnimalHierarchy\bin\Debug\net6.0\AnimalHierarchy.exe
+D:\Capgemini-Tranning\Assignments\Assignment11\AnimalHierarchy\bin\Debug\net6.0\AnimalHierarchy.deps.json
+D:\Capgemini-Tranning\Assignments\Assignment11\AnimalHierarchy\bin\Debug\net6.0\AnimalHierarchy.runtimeconfig.json
+D:\Capgemini-Tranning\Assignments\Assignment11\AnimalHierarchy\bin\Debug\net6.0\AnimalHierarchy.dll
+D:\Capgemini-Tranning\Assignments\Assignment11\AnimalHierarchy\bin\Debug\net6.0\AnimalHierarchy.pdb
+D:\Capgemini-Tranning\Assignments\Assignment11\AnimalHierarchy\obj\Debug\net6.0\AnimalHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini-Tranning\Assignments\Assignment11\AnimalHierarchy\obj\Debug\net6.0\AnimalHierarchy.AssemblyInfoInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment11\AnimalHierarchy\obj\Debug\net6.0\AnimalHierarchy.AssemblyInfo.cs
+D:\Capgemini-Tranning\Assignments\Assignment11\AnimalHierarchy\obj\Debug\net6.0\AnimalHierarchy.csproj.CoreCompileInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment11\AnimalHierarchy\obj\Debug\net6.0\AnimalHierarchy.sourcelink.json
+D:\Capgemini-Tranning\Assignments\Assignment11\AnimalHierarchy\obj\Debug\net6.0\AnimalHierarchy.dll
+D:\Capgemini-Tranning\Assignments\Assignment11\AnimalHierarchy\obj\Debug\net6.0\refint\AnimalHierarchy.dll
+D:\Capgemini-Tranning\Assignments\Assignment11\AnimalHierarchy\obj\Debug\net6.0\AnimalHierarchy.pdb
+D:\Capgemini-Tranning\Assignments\Assignment11\AnimalHierarchy\obj\Debug\net6.0\AnimalHierarchy.genruntimeconfig.cache
+D:\Capgemini-Tranning\Assignments\Assignment11\AnimalHierarchy\obj\Debug\net6.0\ref\AnimalHierarchy.dll

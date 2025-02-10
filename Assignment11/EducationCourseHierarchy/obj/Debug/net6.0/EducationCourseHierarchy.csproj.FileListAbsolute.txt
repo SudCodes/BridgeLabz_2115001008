@@ -1,0 +1,15 @@
+D:\Capgemini-Tranning\Assignments\Assignment11\EducationCourseHierarchy\bin\Debug\net6.0\EducationCourseHierarchy.exe
+D:\Capgemini-Tranning\Assignments\Assignment11\EducationCourseHierarchy\bin\Debug\net6.0\EducationCourseHierarchy.deps.json
+D:\Capgemini-Tranning\Assignments\Assignment11\EducationCourseHierarchy\bin\Debug\net6.0\EducationCourseHierarchy.runtimeconfig.json
+D:\Capgemini-Tranning\Assignments\Assignment11\EducationCourseHierarchy\bin\Debug\net6.0\EducationCourseHierarchy.dll
+D:\Capgemini-Tranning\Assignments\Assignment11\EducationCourseHierarchy\bin\Debug\net6.0\EducationCourseHierarchy.pdb
+D:\Capgemini-Tranning\Assignments\Assignment11\EducationCourseHierarchy\obj\Debug\net6.0\EducationCourseHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini-Tranning\Assignments\Assignment11\EducationCourseHierarchy\obj\Debug\net6.0\EducationCourseHierarchy.AssemblyInfoInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment11\EducationCourseHierarchy\obj\Debug\net6.0\EducationCourseHierarchy.AssemblyInfo.cs
+D:\Capgemini-Tranning\Assignments\Assignment11\EducationCourseHierarchy\obj\Debug\net6.0\EducationCourseHierarchy.csproj.CoreCompileInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment11\EducationCourseHierarchy\obj\Debug\net6.0\EducationCourseHierarchy.sourcelink.json
+D:\Capgemini-Tranning\Assignments\Assignment11\EducationCourseHierarchy\obj\Debug\net6.0\EducationCourseHierarchy.dll
+D:\Capgemini-Tranning\Assignments\Assignment11\EducationCourseHierarchy\obj\Debug\net6.0\refint\EducationCourseHierarchy.dll
+D:\Capgemini-Tranning\Assignments\Assignment11\EducationCourseHierarchy\obj\Debug\net6.0\EducationCourseHierarchy.pdb
+D:\Capgemini-Tranning\Assignments\Assignment11\EducationCourseHierarchy\obj\Debug\net6.0\EducationCourseHierarchy.genruntimeconfig.cache
+D:\Capgemini-Tranning\Assignments\Assignment11\EducationCourseHierarchy\obj\Debug\net6.0\ref\EducationCourseHierarchy.dll

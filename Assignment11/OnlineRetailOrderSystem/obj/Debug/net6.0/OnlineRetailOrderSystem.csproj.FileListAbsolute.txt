@@ -1,0 +1,15 @@
+D:\Capgemini-Tranning\Assignments\Assignment11\OnlineRetailOrderSystem\bin\Debug\net6.0\OnlineRetailOrderSystem.exe
+D:\Capgemini-Tranning\Assignments\Assignment11\OnlineRetailOrderSystem\bin\Debug\net6.0\OnlineRetailOrderSystem.deps.json
+D:\Capgemini-Tranning\Assignments\Assignment11\OnlineRetailOrderSystem\bin\Debug\net6.0\OnlineRetailOrderSystem.runtimeconfig.json
+D:\Capgemini-Tranning\Assignments\Assignment11\OnlineRetailOrderSystem\bin\Debug\net6.0\OnlineRetailOrderSystem.dll
+D:\Capgemini-Tranning\Assignments\Assignment11\OnlineRetailOrderSystem\bin\Debug\net6.0\OnlineRetailOrderSystem.pdb
+D:\Capgemini-Tranning\Assignments\Assignment11\OnlineRetailOrderSystem\obj\Debug\net6.0\OnlineRetailOrderSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini-Tranning\Assignments\Assignment11\OnlineRetailOrderSystem\obj\Debug\net6.0\OnlineRetailOrderSystem.AssemblyInfoInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment11\OnlineRetailOrderSystem\obj\Debug\net6.0\OnlineRetailOrderSystem.AssemblyInfo.cs
+D:\Capgemini-Tranning\Assignments\Assignment11\OnlineRetailOrderSystem\obj\Debug\net6.0\OnlineRetailOrderSystem.csproj.CoreCompileInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment11\OnlineRetailOrderSystem\obj\Debug\net6.0\OnlineRetailOrderSystem.sourcelink.json
+D:\Capgemini-Tranning\Assignments\Assignment11\OnlineRetailOrderSystem\obj\Debug\net6.0\OnlineRetailOrderSystem.dll
+D:\Capgemini-Tranning\Assignments\Assignment11\OnlineRetailOrderSystem\obj\Debug\net6.0\refint\OnlineRetailOrderSystem.dll
+D:\Capgemini-Tranning\Assignments\Assignment11\OnlineRetailOrderSystem\obj\Debug\net6.0\OnlineRetailOrderSystem.pdb
+D:\Capgemini-Tranning\Assignments\Assignment11\OnlineRetailOrderSystem\obj\Debug\net6.0\OnlineRetailOrderSystem.genruntimeconfig.cache
+D:\Capgemini-Tranning\Assignments\Assignment11\OnlineRetailOrderSystem\obj\Debug\net6.0\ref\OnlineRetailOrderSystem.dll

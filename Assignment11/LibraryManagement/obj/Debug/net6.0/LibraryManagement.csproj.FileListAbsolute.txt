@@ -1,0 +1,15 @@
+D:\Capgemini-Tranning\Assignments\Assignment11\LibraryManagement\bin\Debug\net6.0\LibraryManagement.exe
+D:\Capgemini-Tranning\Assignments\Assignment11\LibraryManagement\bin\Debug\net6.0\LibraryManagement.deps.json
+D:\Capgemini-Tranning\Assignments\Assignment11\LibraryManagement\bin\Debug\net6.0\LibraryManagement.runtimeconfig.json
+D:\Capgemini-Tranning\Assignments\Assignment11\LibraryManagement\bin\Debug\net6.0\LibraryManagement.dll
+D:\Capgemini-Tranning\Assignments\Assignment11\LibraryManagement\bin\Debug\net6.0\LibraryManagement.pdb
+D:\Capgemini-Tranning\Assignments\Assignment11\LibraryManagement\obj\Debug\net6.0\LibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini-Tranning\Assignments\Assignment11\LibraryManagement\obj\Debug\net6.0\LibraryManagement.AssemblyInfoInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment11\LibraryManagement\obj\Debug\net6.0\LibraryManagement.AssemblyInfo.cs
+D:\Capgemini-Tranning\Assignments\Assignment11\LibraryManagement\obj\Debug\net6.0\LibraryManagement.csproj.CoreCompileInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment11\LibraryManagement\obj\Debug\net6.0\LibraryManagement.sourcelink.json
+D:\Capgemini-Tranning\Assignments\Assignment11\LibraryManagement\obj\Debug\net6.0\LibraryManagement.dll
+D:\Capgemini-Tranning\Assignments\Assignment11\LibraryManagement\obj\Debug\net6.0\refint\LibraryManagement.dll
+D:\Capgemini-Tranning\Assignments\Assignment11\LibraryManagement\obj\Debug\net6.0\LibraryManagement.pdb
+D:\Capgemini-Tranning\Assignments\Assignment11\LibraryManagement\obj\Debug\net6.0\LibraryManagement.genruntimeconfig.cache
+D:\Capgemini-Tranning\Assignments\Assignment11\LibraryManagement\obj\Debug\net6.0\ref\LibraryManagement.dll
