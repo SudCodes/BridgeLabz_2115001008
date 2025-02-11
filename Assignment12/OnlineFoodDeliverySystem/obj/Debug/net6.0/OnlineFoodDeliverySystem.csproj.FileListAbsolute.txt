@@ -1,0 +1,15 @@
+D:\Capgemini-Tranning\Assignments\Assignment12\OnlineFoodDeliverySystem\bin\Debug\net6.0\OnlineFoodDeliverySystem.exe
+D:\Capgemini-Tranning\Assignments\Assignment12\OnlineFoodDeliverySystem\bin\Debug\net6.0\OnlineFoodDeliverySystem.deps.json
+D:\Capgemini-Tranning\Assignments\Assignment12\OnlineFoodDeliverySystem\bin\Debug\net6.0\OnlineFoodDeliverySystem.runtimeconfig.json
+D:\Capgemini-Tranning\Assignments\Assignment12\OnlineFoodDeliverySystem\bin\Debug\net6.0\OnlineFoodDeliverySystem.dll
+D:\Capgemini-Tranning\Assignments\Assignment12\OnlineFoodDeliverySystem\bin\Debug\net6.0\OnlineFoodDeliverySystem.pdb
+D:\Capgemini-Tranning\Assignments\Assignment12\OnlineFoodDeliverySystem\obj\Debug\net6.0\OnlineFoodDeliverySystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini-Tranning\Assignments\Assignment12\OnlineFoodDeliverySystem\obj\Debug\net6.0\OnlineFoodDeliverySystem.AssemblyInfoInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment12\OnlineFoodDeliverySystem\obj\Debug\net6.0\OnlineFoodDeliverySystem.AssemblyInfo.cs
+D:\Capgemini-Tranning\Assignments\Assignment12\OnlineFoodDeliverySystem\obj\Debug\net6.0\OnlineFoodDeliverySystem.csproj.CoreCompileInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment12\OnlineFoodDeliverySystem\obj\Debug\net6.0\OnlineFoodDeliverySystem.sourcelink.json
+D:\Capgemini-Tranning\Assignments\Assignment12\OnlineFoodDeliverySystem\obj\Debug\net6.0\OnlineFoodDeliverySystem.dll
+D:\Capgemini-Tranning\Assignments\Assignment12\OnlineFoodDeliverySystem\obj\Debug\net6.0\refint\OnlineFoodDeliverySystem.dll
+D:\Capgemini-Tranning\Assignments\Assignment12\OnlineFoodDeliverySystem\obj\Debug\net6.0\OnlineFoodDeliverySystem.pdb
+D:\Capgemini-Tranning\Assignments\Assignment12\OnlineFoodDeliverySystem\obj\Debug\net6.0\OnlineFoodDeliverySystem.genruntimeconfig.cache
+D:\Capgemini-Tranning\Assignments\Assignment12\OnlineFoodDeliverySystem\obj\Debug\net6.0\ref\OnlineFoodDeliverySystem.dll
