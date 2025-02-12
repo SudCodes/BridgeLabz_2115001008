@@ -1,0 +1,15 @@
+D:\Capgemini-Tranning\Assignments\Assignment13\TicketReservation\bin\Debug\net6.0\TicketReservation.exe
+D:\Capgemini-Tranning\Assignments\Assignment13\TicketReservation\bin\Debug\net6.0\TicketReservation.deps.json
+D:\Capgemini-Tranning\Assignments\Assignment13\TicketReservation\bin\Debug\net6.0\TicketReservation.runtimeconfig.json
+D:\Capgemini-Tranning\Assignments\Assignment13\TicketReservation\bin\Debug\net6.0\TicketReservation.dll
+D:\Capgemini-Tranning\Assignments\Assignment13\TicketReservation\bin\Debug\net6.0\TicketReservation.pdb
+D:\Capgemini-Tranning\Assignments\Assignment13\TicketReservation\obj\Debug\net6.0\TicketReservation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini-Tranning\Assignments\Assignment13\TicketReservation\obj\Debug\net6.0\TicketReservation.AssemblyInfoInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment13\TicketReservation\obj\Debug\net6.0\TicketReservation.AssemblyInfo.cs
+D:\Capgemini-Tranning\Assignments\Assignment13\TicketReservation\obj\Debug\net6.0\TicketReservation.csproj.CoreCompileInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment13\TicketReservation\obj\Debug\net6.0\TicketReservation.sourcelink.json
+D:\Capgemini-Tranning\Assignments\Assignment13\TicketReservation\obj\Debug\net6.0\TicketReservation.dll
+D:\Capgemini-Tranning\Assignments\Assignment13\TicketReservation\obj\Debug\net6.0\refint\TicketReservation.dll
+D:\Capgemini-Tranning\Assignments\Assignment13\TicketReservation\obj\Debug\net6.0\TicketReservation.pdb
+D:\Capgemini-Tranning\Assignments\Assignment13\TicketReservation\obj\Debug\net6.0\TicketReservation.genruntimeconfig.cache
+D:\Capgemini-Tranning\Assignments\Assignment13\TicketReservation\obj\Debug\net6.0\ref\TicketReservation.dll

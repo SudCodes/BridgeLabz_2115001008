@@ -1,0 +1,15 @@
+D:\Capgemini-Tranning\Assignments\Assignment13\MovieManagementSystem\bin\Debug\net6.0\MovieManagementSystem.exe
+D:\Capgemini-Tranning\Assignments\Assignment13\MovieManagementSystem\bin\Debug\net6.0\MovieManagementSystem.deps.json
+D:\Capgemini-Tranning\Assignments\Assignment13\MovieManagementSystem\bin\Debug\net6.0\MovieManagementSystem.runtimeconfig.json
+D:\Capgemini-Tranning\Assignments\Assignment13\MovieManagementSystem\bin\Debug\net6.0\MovieManagementSystem.dll
+D:\Capgemini-Tranning\Assignments\Assignment13\MovieManagementSystem\bin\Debug\net6.0\MovieManagementSystem.pdb
+D:\Capgemini-Tranning\Assignments\Assignment13\MovieManagementSystem\obj\Debug\net6.0\MovieManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini-Tranning\Assignments\Assignment13\MovieManagementSystem\obj\Debug\net6.0\MovieManagementSystem.AssemblyInfoInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment13\MovieManagementSystem\obj\Debug\net6.0\MovieManagementSystem.AssemblyInfo.cs
+D:\Capgemini-Tranning\Assignments\Assignment13\MovieManagementSystem\obj\Debug\net6.0\MovieManagementSystem.csproj.CoreCompileInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment13\MovieManagementSystem\obj\Debug\net6.0\MovieManagementSystem.sourcelink.json
+D:\Capgemini-Tranning\Assignments\Assignment13\MovieManagementSystem\obj\Debug\net6.0\MovieManagementSystem.dll
+D:\Capgemini-Tranning\Assignments\Assignment13\MovieManagementSystem\obj\Debug\net6.0\refint\MovieManagementSystem.dll
+D:\Capgemini-Tranning\Assignments\Assignment13\MovieManagementSystem\obj\Debug\net6.0\MovieManagementSystem.pdb
+D:\Capgemini-Tranning\Assignments\Assignment13\MovieManagementSystem\obj\Debug\net6.0\MovieManagementSystem.genruntimeconfig.cache
+D:\Capgemini-Tranning\Assignments\Assignment13\MovieManagementSystem\obj\Debug\net6.0\ref\MovieManagementSystem.dll

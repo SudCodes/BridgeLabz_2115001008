@@ -1,0 +1,15 @@
+D:\Capgemini-Tranning\Assignments\Assignment13\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+D:\Capgemini-Tranning\Assignments\Assignment13\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+D:\Capgemini-Tranning\Assignments\Assignment13\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+D:\Capgemini-Tranning\Assignments\Assignment13\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+D:\Capgemini-Tranning\Assignments\Assignment13\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+D:\Capgemini-Tranning\Assignments\Assignment13\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini-Tranning\Assignments\Assignment13\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment13\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+D:\Capgemini-Tranning\Assignments\Assignment13\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment13\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.sourcelink.json
+D:\Capgemini-Tranning\Assignments\Assignment13\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+D:\Capgemini-Tranning\Assignments\Assignment13\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+D:\Capgemini-Tranning\Assignments\Assignment13\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+D:\Capgemini-Tranning\Assignments\Assignment13\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+D:\Capgemini-Tranning\Assignments\Assignment13\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll

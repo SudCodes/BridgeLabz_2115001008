@@ -1,0 +1,15 @@
+D:\Capgemini-Tranning\Assignments\Assignment13\TextEditor\bin\Debug\net6.0\TextEditor.exe
+D:\Capgemini-Tranning\Assignments\Assignment13\TextEditor\bin\Debug\net6.0\TextEditor.deps.json
+D:\Capgemini-Tranning\Assignments\Assignment13\TextEditor\bin\Debug\net6.0\TextEditor.runtimeconfig.json
+D:\Capgemini-Tranning\Assignments\Assignment13\TextEditor\bin\Debug\net6.0\TextEditor.dll
+D:\Capgemini-Tranning\Assignments\Assignment13\TextEditor\bin\Debug\net6.0\TextEditor.pdb
+D:\Capgemini-Tranning\Assignments\Assignment13\TextEditor\obj\Debug\net6.0\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini-Tranning\Assignments\Assignment13\TextEditor\obj\Debug\net6.0\TextEditor.AssemblyInfoInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment13\TextEditor\obj\Debug\net6.0\TextEditor.AssemblyInfo.cs
+D:\Capgemini-Tranning\Assignments\Assignment13\TextEditor\obj\Debug\net6.0\TextEditor.csproj.CoreCompileInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment13\TextEditor\obj\Debug\net6.0\TextEditor.sourcelink.json
+D:\Capgemini-Tranning\Assignments\Assignment13\TextEditor\obj\Debug\net6.0\TextEditor.dll
+D:\Capgemini-Tranning\Assignments\Assignment13\TextEditor\obj\Debug\net6.0\refint\TextEditor.dll
+D:\Capgemini-Tranning\Assignments\Assignment13\TextEditor\obj\Debug\net6.0\TextEditor.pdb
+D:\Capgemini-Tranning\Assignments\Assignment13\TextEditor\obj\Debug\net6.0\TextEditor.genruntimeconfig.cache
+D:\Capgemini-Tranning\Assignments\Assignment13\TextEditor\obj\Debug\net6.0\ref\TextEditor.dll

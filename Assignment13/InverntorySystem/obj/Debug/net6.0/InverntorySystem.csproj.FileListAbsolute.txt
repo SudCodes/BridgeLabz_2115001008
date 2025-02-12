@@ -1,0 +1,15 @@
+D:\Capgemini-Tranning\Assignments\Assignment13\InverntorySystem\bin\Debug\net6.0\InverntorySystem.exe
+D:\Capgemini-Tranning\Assignments\Assignment13\InverntorySystem\bin\Debug\net6.0\InverntorySystem.deps.json
+D:\Capgemini-Tranning\Assignments\Assignment13\InverntorySystem\bin\Debug\net6.0\InverntorySystem.runtimeconfig.json
+D:\Capgemini-Tranning\Assignments\Assignment13\InverntorySystem\bin\Debug\net6.0\InverntorySystem.dll
+D:\Capgemini-Tranning\Assignments\Assignment13\InverntorySystem\bin\Debug\net6.0\InverntorySystem.pdb
+D:\Capgemini-Tranning\Assignments\Assignment13\InverntorySystem\obj\Debug\net6.0\InverntorySystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini-Tranning\Assignments\Assignment13\InverntorySystem\obj\Debug\net6.0\InverntorySystem.AssemblyInfoInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment13\InverntorySystem\obj\Debug\net6.0\InverntorySystem.AssemblyInfo.cs
+D:\Capgemini-Tranning\Assignments\Assignment13\InverntorySystem\obj\Debug\net6.0\InverntorySystem.csproj.CoreCompileInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment13\InverntorySystem\obj\Debug\net6.0\InverntorySystem.sourcelink.json
+D:\Capgemini-Tranning\Assignments\Assignment13\InverntorySystem\obj\Debug\net6.0\InverntorySystem.dll
+D:\Capgemini-Tranning\Assignments\Assignment13\InverntorySystem\obj\Debug\net6.0\refint\InverntorySystem.dll
+D:\Capgemini-Tranning\Assignments\Assignment13\InverntorySystem\obj\Debug\net6.0\InverntorySystem.pdb
+D:\Capgemini-Tranning\Assignments\Assignment13\InverntorySystem\obj\Debug\net6.0\InverntorySystem.genruntimeconfig.cache
+D:\Capgemini-Tranning\Assignments\Assignment13\InverntorySystem\obj\Debug\net6.0\ref\InverntorySystem.dll

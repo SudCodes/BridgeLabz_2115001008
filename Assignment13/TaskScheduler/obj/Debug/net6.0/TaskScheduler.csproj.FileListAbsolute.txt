@@ -1,0 +1,15 @@
+D:\Capgemini-Tranning\Assignments\Assignment13\TaskScheduler\bin\Debug\net6.0\TaskScheduler.exe
+D:\Capgemini-Tranning\Assignments\Assignment13\TaskScheduler\bin\Debug\net6.0\TaskScheduler.deps.json
+D:\Capgemini-Tranning\Assignments\Assignment13\TaskScheduler\bin\Debug\net6.0\TaskScheduler.runtimeconfig.json
+D:\Capgemini-Tranning\Assignments\Assignment13\TaskScheduler\bin\Debug\net6.0\TaskScheduler.dll
+D:\Capgemini-Tranning\Assignments\Assignment13\TaskScheduler\bin\Debug\net6.0\TaskScheduler.pdb
+D:\Capgemini-Tranning\Assignments\Assignment13\TaskScheduler\obj\Debug\net6.0\TaskScheduler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini-Tranning\Assignments\Assignment13\TaskScheduler\obj\Debug\net6.0\TaskScheduler.AssemblyInfoInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment13\TaskScheduler\obj\Debug\net6.0\TaskScheduler.AssemblyInfo.cs
+D:\Capgemini-Tranning\Assignments\Assignment13\TaskScheduler\obj\Debug\net6.0\TaskScheduler.csproj.CoreCompileInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment13\TaskScheduler\obj\Debug\net6.0\TaskScheduler.sourcelink.json
+D:\Capgemini-Tranning\Assignments\Assignment13\TaskScheduler\obj\Debug\net6.0\TaskScheduler.dll
+D:\Capgemini-Tranning\Assignments\Assignment13\TaskScheduler\obj\Debug\net6.0\refint\TaskScheduler.dll
+D:\Capgemini-Tranning\Assignments\Assignment13\TaskScheduler\obj\Debug\net6.0\TaskScheduler.pdb
+D:\Capgemini-Tranning\Assignments\Assignment13\TaskScheduler\obj\Debug\net6.0\TaskScheduler.genruntimeconfig.cache
+D:\Capgemini-Tranning\Assignments\Assignment13\TaskScheduler\obj\Debug\net6.0\ref\TaskScheduler.dll
