@@ -1,0 +1,15 @@
+D:\Capgemini-Tranning\Assignments\Assignment14\QueueUsingStack\bin\Debug\net6.0\QueueUsingStack.exe
+D:\Capgemini-Tranning\Assignments\Assignment14\QueueUsingStack\bin\Debug\net6.0\QueueUsingStack.deps.json
+D:\Capgemini-Tranning\Assignments\Assignment14\QueueUsingStack\bin\Debug\net6.0\QueueUsingStack.runtimeconfig.json
+D:\Capgemini-Tranning\Assignments\Assignment14\QueueUsingStack\bin\Debug\net6.0\QueueUsingStack.dll
+D:\Capgemini-Tranning\Assignments\Assignment14\QueueUsingStack\bin\Debug\net6.0\QueueUsingStack.pdb
+D:\Capgemini-Tranning\Assignments\Assignment14\QueueUsingStack\obj\Debug\net6.0\QueueUsingStack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini-Tranning\Assignments\Assignment14\QueueUsingStack\obj\Debug\net6.0\QueueUsingStack.AssemblyInfoInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment14\QueueUsingStack\obj\Debug\net6.0\QueueUsingStack.AssemblyInfo.cs
+D:\Capgemini-Tranning\Assignments\Assignment14\QueueUsingStack\obj\Debug\net6.0\QueueUsingStack.csproj.CoreCompileInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment14\QueueUsingStack\obj\Debug\net6.0\QueueUsingStack.sourcelink.json
+D:\Capgemini-Tranning\Assignments\Assignment14\QueueUsingStack\obj\Debug\net6.0\QueueUsingStack.dll
+D:\Capgemini-Tranning\Assignments\Assignment14\QueueUsingStack\obj\Debug\net6.0\refint\QueueUsingStack.dll
+D:\Capgemini-Tranning\Assignments\Assignment14\QueueUsingStack\obj\Debug\net6.0\QueueUsingStack.pdb
+D:\Capgemini-Tranning\Assignments\Assignment14\QueueUsingStack\obj\Debug\net6.0\QueueUsingStack.genruntimeconfig.cache
+D:\Capgemini-Tranning\Assignments\Assignment14\QueueUsingStack\obj\Debug\net6.0\ref\QueueUsingStack.dll

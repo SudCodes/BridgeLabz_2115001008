@@ -1,0 +1,15 @@
+D:\Capgemini-Tranning\Assignments\Assignment14\StockSpan\obj\Debug\net6.0\StockSpan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini-Tranning\Assignments\Assignment14\StockSpan\obj\Debug\net6.0\StockSpan.AssemblyInfoInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment14\StockSpan\obj\Debug\net6.0\StockSpan.AssemblyInfo.cs
+D:\Capgemini-Tranning\Assignments\Assignment14\StockSpan\obj\Debug\net6.0\StockSpan.csproj.CoreCompileInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment14\StockSpan\obj\Debug\net6.0\StockSpan.sourcelink.json
+D:\Capgemini-Tranning\Assignments\Assignment14\StockSpan\bin\Debug\net6.0\StockSpan.exe
+D:\Capgemini-Tranning\Assignments\Assignment14\StockSpan\bin\Debug\net6.0\StockSpan.deps.json
+D:\Capgemini-Tranning\Assignments\Assignment14\StockSpan\bin\Debug\net6.0\StockSpan.runtimeconfig.json
+D:\Capgemini-Tranning\Assignments\Assignment14\StockSpan\bin\Debug\net6.0\StockSpan.dll
+D:\Capgemini-Tranning\Assignments\Assignment14\StockSpan\bin\Debug\net6.0\StockSpan.pdb
+D:\Capgemini-Tranning\Assignments\Assignment14\StockSpan\obj\Debug\net6.0\StockSpan.dll
+D:\Capgemini-Tranning\Assignments\Assignment14\StockSpan\obj\Debug\net6.0\refint\StockSpan.dll
+D:\Capgemini-Tranning\Assignments\Assignment14\StockSpan\obj\Debug\net6.0\StockSpan.pdb
+D:\Capgemini-Tranning\Assignments\Assignment14\StockSpan\obj\Debug\net6.0\StockSpan.genruntimeconfig.cache
+D:\Capgemini-Tranning\Assignments\Assignment14\StockSpan\obj\Debug\net6.0\ref\StockSpan.dll

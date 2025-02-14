@@ -1,0 +1,15 @@
+D:\Capgemini-Tranning\Assignments\Assignment14\SortingStackUsingRecursion\bin\Debug\net6.0\SortingStackUsingRecursion.exe
+D:\Capgemini-Tranning\Assignments\Assignment14\SortingStackUsingRecursion\bin\Debug\net6.0\SortingStackUsingRecursion.deps.json
+D:\Capgemini-Tranning\Assignments\Assignment14\SortingStackUsingRecursion\bin\Debug\net6.0\SortingStackUsingRecursion.runtimeconfig.json
+D:\Capgemini-Tranning\Assignments\Assignment14\SortingStackUsingRecursion\bin\Debug\net6.0\SortingStackUsingRecursion.dll
+D:\Capgemini-Tranning\Assignments\Assignment14\SortingStackUsingRecursion\bin\Debug\net6.0\SortingStackUsingRecursion.pdb
+D:\Capgemini-Tranning\Assignments\Assignment14\SortingStackUsingRecursion\obj\Debug\net6.0\SortingStackUsingRecursion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini-Tranning\Assignments\Assignment14\SortingStackUsingRecursion\obj\Debug\net6.0\SortingStackUsingRecursion.AssemblyInfoInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment14\SortingStackUsingRecursion\obj\Debug\net6.0\SortingStackUsingRecursion.AssemblyInfo.cs
+D:\Capgemini-Tranning\Assignments\Assignment14\SortingStackUsingRecursion\obj\Debug\net6.0\SortingStackUsingRecursion.csproj.CoreCompileInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment14\SortingStackUsingRecursion\obj\Debug\net6.0\SortingStackUsingRecursion.sourcelink.json
+D:\Capgemini-Tranning\Assignments\Assignment14\SortingStackUsingRecursion\obj\Debug\net6.0\SortingStackUsingRecursion.dll
+D:\Capgemini-Tranning\Assignments\Assignment14\SortingStackUsingRecursion\obj\Debug\net6.0\refint\SortingStackUsingRecursion.dll
+D:\Capgemini-Tranning\Assignments\Assignment14\SortingStackUsingRecursion\obj\Debug\net6.0\SortingStackUsingRecursion.pdb
+D:\Capgemini-Tranning\Assignments\Assignment14\SortingStackUsingRecursion\obj\Debug\net6.0\SortingStackUsingRecursion.genruntimeconfig.cache
+D:\Capgemini-Tranning\Assignments\Assignment14\SortingStackUsingRecursion\obj\Debug\net6.0\ref\SortingStackUsingRecursion.dll

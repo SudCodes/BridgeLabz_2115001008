@@ -1,0 +1,15 @@
+D:\Capgemini-Tranning\Assignments\Assignment14\SlidingWindowMaximum\bin\Debug\net6.0\SlidingWindowMaximum.exe
+D:\Capgemini-Tranning\Assignments\Assignment14\SlidingWindowMaximum\bin\Debug\net6.0\SlidingWindowMaximum.deps.json
+D:\Capgemini-Tranning\Assignments\Assignment14\SlidingWindowMaximum\bin\Debug\net6.0\SlidingWindowMaximum.runtimeconfig.json
+D:\Capgemini-Tranning\Assignments\Assignment14\SlidingWindowMaximum\bin\Debug\net6.0\SlidingWindowMaximum.dll
+D:\Capgemini-Tranning\Assignments\Assignment14\SlidingWindowMaximum\bin\Debug\net6.0\SlidingWindowMaximum.pdb
+D:\Capgemini-Tranning\Assignments\Assignment14\SlidingWindowMaximum\obj\Debug\net6.0\SlidingWindowMaximum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini-Tranning\Assignments\Assignment14\SlidingWindowMaximum\obj\Debug\net6.0\SlidingWindowMaximum.AssemblyInfoInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment14\SlidingWindowMaximum\obj\Debug\net6.0\SlidingWindowMaximum.AssemblyInfo.cs
+D:\Capgemini-Tranning\Assignments\Assignment14\SlidingWindowMaximum\obj\Debug\net6.0\SlidingWindowMaximum.csproj.CoreCompileInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment14\SlidingWindowMaximum\obj\Debug\net6.0\SlidingWindowMaximum.sourcelink.json
+D:\Capgemini-Tranning\Assignments\Assignment14\SlidingWindowMaximum\obj\Debug\net6.0\SlidingWindowMaximum.dll
+D:\Capgemini-Tranning\Assignments\Assignment14\SlidingWindowMaximum\obj\Debug\net6.0\refint\SlidingWindowMaximum.dll
+D:\Capgemini-Tranning\Assignments\Assignment14\SlidingWindowMaximum\obj\Debug\net6.0\SlidingWindowMaximum.pdb
+D:\Capgemini-Tranning\Assignments\Assignment14\SlidingWindowMaximum\obj\Debug\net6.0\SlidingWindowMaximum.genruntimeconfig.cache
+D:\Capgemini-Tranning\Assignments\Assignment14\SlidingWindowMaximum\obj\Debug\net6.0\ref\SlidingWindowMaximum.dll
