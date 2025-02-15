@@ -1,0 +1,15 @@
+D:\Capgemini-Tranning\Assignments\Assignment15\SortExamScore-SS\bin\Debug\net6.0\SortExamScore-SS.exe
+D:\Capgemini-Tranning\Assignments\Assignment15\SortExamScore-SS\bin\Debug\net6.0\SortExamScore-SS.deps.json
+D:\Capgemini-Tranning\Assignments\Assignment15\SortExamScore-SS\bin\Debug\net6.0\SortExamScore-SS.runtimeconfig.json
+D:\Capgemini-Tranning\Assignments\Assignment15\SortExamScore-SS\bin\Debug\net6.0\SortExamScore-SS.dll
+D:\Capgemini-Tranning\Assignments\Assignment15\SortExamScore-SS\bin\Debug\net6.0\SortExamScore-SS.pdb
+D:\Capgemini-Tranning\Assignments\Assignment15\SortExamScore-SS\obj\Debug\net6.0\SortExamScore-SS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini-Tranning\Assignments\Assignment15\SortExamScore-SS\obj\Debug\net6.0\SortExamScore-SS.AssemblyInfoInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment15\SortExamScore-SS\obj\Debug\net6.0\SortExamScore-SS.AssemblyInfo.cs
+D:\Capgemini-Tranning\Assignments\Assignment15\SortExamScore-SS\obj\Debug\net6.0\SortExamScore-SS.csproj.CoreCompileInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment15\SortExamScore-SS\obj\Debug\net6.0\SortExamScore-SS.sourcelink.json
+D:\Capgemini-Tranning\Assignments\Assignment15\SortExamScore-SS\obj\Debug\net6.0\SortExamScore-SS.dll
+D:\Capgemini-Tranning\Assignments\Assignment15\SortExamScore-SS\obj\Debug\net6.0\refint\SortExamScore-SS.dll
+D:\Capgemini-Tranning\Assignments\Assignment15\SortExamScore-SS\obj\Debug\net6.0\SortExamScore-SS.pdb
+D:\Capgemini-Tranning\Assignments\Assignment15\SortExamScore-SS\obj\Debug\net6.0\SortExamScore-SS.genruntimeconfig.cache
+D:\Capgemini-Tranning\Assignments\Assignment15\SortExamScore-SS\obj\Debug\net6.0\ref\SortExamScore-SS.dll

@@ -1,0 +1,15 @@
+D:\Capgemini-Tranning\Assignments\Assignment15\SortBookPrices-MS\bin\Debug\net6.0\SortBookPrices-MS.exe
+D:\Capgemini-Tranning\Assignments\Assignment15\SortBookPrices-MS\bin\Debug\net6.0\SortBookPrices-MS.deps.json
+D:\Capgemini-Tranning\Assignments\Assignment15\SortBookPrices-MS\bin\Debug\net6.0\SortBookPrices-MS.runtimeconfig.json
+D:\Capgemini-Tranning\Assignments\Assignment15\SortBookPrices-MS\bin\Debug\net6.0\SortBookPrices-MS.dll
+D:\Capgemini-Tranning\Assignments\Assignment15\SortBookPrices-MS\bin\Debug\net6.0\SortBookPrices-MS.pdb
+D:\Capgemini-Tranning\Assignments\Assignment15\SortBookPrices-MS\obj\Debug\net6.0\SortBookPrices-MS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini-Tranning\Assignments\Assignment15\SortBookPrices-MS\obj\Debug\net6.0\SortBookPrices-MS.AssemblyInfoInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment15\SortBookPrices-MS\obj\Debug\net6.0\SortBookPrices-MS.AssemblyInfo.cs
+D:\Capgemini-Tranning\Assignments\Assignment15\SortBookPrices-MS\obj\Debug\net6.0\SortBookPrices-MS.csproj.CoreCompileInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment15\SortBookPrices-MS\obj\Debug\net6.0\SortBookPrices-MS.sourcelink.json
+D:\Capgemini-Tranning\Assignments\Assignment15\SortBookPrices-MS\obj\Debug\net6.0\SortBookPrices-MS.dll
+D:\Capgemini-Tranning\Assignments\Assignment15\SortBookPrices-MS\obj\Debug\net6.0\refint\SortBookPrices-MS.dll
+D:\Capgemini-Tranning\Assignments\Assignment15\SortBookPrices-MS\obj\Debug\net6.0\SortBookPrices-MS.pdb
+D:\Capgemini-Tranning\Assignments\Assignment15\SortBookPrices-MS\obj\Debug\net6.0\SortBookPrices-MS.genruntimeconfig.cache
+D:\Capgemini-Tranning\Assignments\Assignment15\SortBookPrices-MS\obj\Debug\net6.0\ref\SortBookPrices-MS.dll

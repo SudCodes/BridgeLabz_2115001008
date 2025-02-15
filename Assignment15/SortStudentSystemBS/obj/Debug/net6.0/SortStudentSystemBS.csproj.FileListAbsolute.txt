@@ -1,0 +1,15 @@
+D:\Capgemini-Tranning\Assignments\Assignment15\SortStudentSystemBS\bin\Debug\net6.0\SortStudentSystemBS.exe
+D:\Capgemini-Tranning\Assignments\Assignment15\SortStudentSystemBS\bin\Debug\net6.0\SortStudentSystemBS.deps.json
+D:\Capgemini-Tranning\Assignments\Assignment15\SortStudentSystemBS\bin\Debug\net6.0\SortStudentSystemBS.runtimeconfig.json
+D:\Capgemini-Tranning\Assignments\Assignment15\SortStudentSystemBS\bin\Debug\net6.0\SortStudentSystemBS.dll
+D:\Capgemini-Tranning\Assignments\Assignment15\SortStudentSystemBS\bin\Debug\net6.0\SortStudentSystemBS.pdb
+D:\Capgemini-Tranning\Assignments\Assignment15\SortStudentSystemBS\obj\Debug\net6.0\SortStudentSystemBS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini-Tranning\Assignments\Assignment15\SortStudentSystemBS\obj\Debug\net6.0\SortStudentSystemBS.AssemblyInfoInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment15\SortStudentSystemBS\obj\Debug\net6.0\SortStudentSystemBS.AssemblyInfo.cs
+D:\Capgemini-Tranning\Assignments\Assignment15\SortStudentSystemBS\obj\Debug\net6.0\SortStudentSystemBS.csproj.CoreCompileInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment15\SortStudentSystemBS\obj\Debug\net6.0\SortStudentSystemBS.sourcelink.json
+D:\Capgemini-Tranning\Assignments\Assignment15\SortStudentSystemBS\obj\Debug\net6.0\SortStudentSystemBS.dll
+D:\Capgemini-Tranning\Assignments\Assignment15\SortStudentSystemBS\obj\Debug\net6.0\refint\SortStudentSystemBS.dll
+D:\Capgemini-Tranning\Assignments\Assignment15\SortStudentSystemBS\obj\Debug\net6.0\SortStudentSystemBS.pdb
+D:\Capgemini-Tranning\Assignments\Assignment15\SortStudentSystemBS\obj\Debug\net6.0\SortStudentSystemBS.genruntimeconfig.cache
+D:\Capgemini-Tranning\Assignments\Assignment15\SortStudentSystemBS\obj\Debug\net6.0\ref\SortStudentSystemBS.dll

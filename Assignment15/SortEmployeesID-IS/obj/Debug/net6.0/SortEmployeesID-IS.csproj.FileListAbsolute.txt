@@ -1,0 +1,15 @@
+D:\Capgemini-Tranning\Assignments\Assignment15\SortEmployeesID-IS\bin\Debug\net6.0\SortEmployeesID-IS.exe
+D:\Capgemini-Tranning\Assignments\Assignment15\SortEmployeesID-IS\bin\Debug\net6.0\SortEmployeesID-IS.deps.json
+D:\Capgemini-Tranning\Assignments\Assignment15\SortEmployeesID-IS\bin\Debug\net6.0\SortEmployeesID-IS.runtimeconfig.json
+D:\Capgemini-Tranning\Assignments\Assignment15\SortEmployeesID-IS\bin\Debug\net6.0\SortEmployeesID-IS.dll
+D:\Capgemini-Tranning\Assignments\Assignment15\SortEmployeesID-IS\bin\Debug\net6.0\SortEmployeesID-IS.pdb
+D:\Capgemini-Tranning\Assignments\Assignment15\SortEmployeesID-IS\obj\Debug\net6.0\SortEmployeesID-IS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini-Tranning\Assignments\Assignment15\SortEmployeesID-IS\obj\Debug\net6.0\SortEmployeesID-IS.AssemblyInfoInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment15\SortEmployeesID-IS\obj\Debug\net6.0\SortEmployeesID-IS.AssemblyInfo.cs
+D:\Capgemini-Tranning\Assignments\Assignment15\SortEmployeesID-IS\obj\Debug\net6.0\SortEmployeesID-IS.csproj.CoreCompileInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment15\SortEmployeesID-IS\obj\Debug\net6.0\SortEmployeesID-IS.sourcelink.json
+D:\Capgemini-Tranning\Assignments\Assignment15\SortEmployeesID-IS\obj\Debug\net6.0\SortEmployeesID-IS.dll
+D:\Capgemini-Tranning\Assignments\Assignment15\SortEmployeesID-IS\obj\Debug\net6.0\refint\SortEmployeesID-IS.dll
+D:\Capgemini-Tranning\Assignments\Assignment15\SortEmployeesID-IS\obj\Debug\net6.0\SortEmployeesID-IS.pdb
+D:\Capgemini-Tranning\Assignments\Assignment15\SortEmployeesID-IS\obj\Debug\net6.0\SortEmployeesID-IS.genruntimeconfig.cache
+D:\Capgemini-Tranning\Assignments\Assignment15\SortEmployeesID-IS\obj\Debug\net6.0\ref\SortEmployeesID-IS.dll

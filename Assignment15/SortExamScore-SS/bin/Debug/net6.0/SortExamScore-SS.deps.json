@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SortExamScore-SS/1.0.0": {
+        "runtime": {
+          "SortExamScore-SS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SortExamScore-SS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
