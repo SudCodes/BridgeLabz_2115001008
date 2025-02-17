@@ -1,0 +1,15 @@
+D:\Capgemini-Tranning\Assignments\Assignment16\SearchWord\bin\Debug\net6.0\SearchWord.exe
+D:\Capgemini-Tranning\Assignments\Assignment16\SearchWord\bin\Debug\net6.0\SearchWord.deps.json
+D:\Capgemini-Tranning\Assignments\Assignment16\SearchWord\bin\Debug\net6.0\SearchWord.runtimeconfig.json
+D:\Capgemini-Tranning\Assignments\Assignment16\SearchWord\bin\Debug\net6.0\SearchWord.dll
+D:\Capgemini-Tranning\Assignments\Assignment16\SearchWord\bin\Debug\net6.0\SearchWord.pdb
+D:\Capgemini-Tranning\Assignments\Assignment16\SearchWord\obj\Debug\net6.0\SearchWord.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini-Tranning\Assignments\Assignment16\SearchWord\obj\Debug\net6.0\SearchWord.AssemblyInfoInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment16\SearchWord\obj\Debug\net6.0\SearchWord.AssemblyInfo.cs
+D:\Capgemini-Tranning\Assignments\Assignment16\SearchWord\obj\Debug\net6.0\SearchWord.csproj.CoreCompileInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment16\SearchWord\obj\Debug\net6.0\SearchWord.sourcelink.json
+D:\Capgemini-Tranning\Assignments\Assignment16\SearchWord\obj\Debug\net6.0\SearchWord.dll
+D:\Capgemini-Tranning\Assignments\Assignment16\SearchWord\obj\Debug\net6.0\refint\SearchWord.dll
+D:\Capgemini-Tranning\Assignments\Assignment16\SearchWord\obj\Debug\net6.0\SearchWord.pdb
+D:\Capgemini-Tranning\Assignments\Assignment16\SearchWord\obj\Debug\net6.0\SearchWord.genruntimeconfig.cache
+D:\Capgemini-Tranning\Assignments\Assignment16\SearchWord\obj\Debug\net6.0\ref\SearchWord.dll

@@ -1,0 +1,15 @@
+D:\Capgemini-Tranning\Assignments\Assignment16\CompareStringBuilderPerformance\bin\Debug\net6.0\CompareStringBuilderPerformance.exe
+D:\Capgemini-Tranning\Assignments\Assignment16\CompareStringBuilderPerformance\bin\Debug\net6.0\CompareStringBuilderPerformance.deps.json
+D:\Capgemini-Tranning\Assignments\Assignment16\CompareStringBuilderPerformance\bin\Debug\net6.0\CompareStringBuilderPerformance.runtimeconfig.json
+D:\Capgemini-Tranning\Assignments\Assignment16\CompareStringBuilderPerformance\bin\Debug\net6.0\CompareStringBuilderPerformance.dll
+D:\Capgemini-Tranning\Assignments\Assignment16\CompareStringBuilderPerformance\bin\Debug\net6.0\CompareStringBuilderPerformance.pdb
+D:\Capgemini-Tranning\Assignments\Assignment16\CompareStringBuilderPerformance\obj\Debug\net6.0\CompareStringBuilderPerformance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini-Tranning\Assignments\Assignment16\CompareStringBuilderPerformance\obj\Debug\net6.0\CompareStringBuilderPerformance.AssemblyInfoInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment16\CompareStringBuilderPerformance\obj\Debug\net6.0\CompareStringBuilderPerformance.AssemblyInfo.cs
+D:\Capgemini-Tranning\Assignments\Assignment16\CompareStringBuilderPerformance\obj\Debug\net6.0\CompareStringBuilderPerformance.csproj.CoreCompileInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment16\CompareStringBuilderPerformance\obj\Debug\net6.0\CompareStringBuilderPerformance.sourcelink.json
+D:\Capgemini-Tranning\Assignments\Assignment16\CompareStringBuilderPerformance\obj\Debug\net6.0\CompareStringBuilderPerformance.dll
+D:\Capgemini-Tranning\Assignments\Assignment16\CompareStringBuilderPerformance\obj\Debug\net6.0\refint\CompareStringBuilderPerformance.dll
+D:\Capgemini-Tranning\Assignments\Assignment16\CompareStringBuilderPerformance\obj\Debug\net6.0\CompareStringBuilderPerformance.pdb
+D:\Capgemini-Tranning\Assignments\Assignment16\CompareStringBuilderPerformance\obj\Debug\net6.0\CompareStringBuilderPerformance.genruntimeconfig.cache
+D:\Capgemini-Tranning\Assignments\Assignment16\CompareStringBuilderPerformance\obj\Debug\net6.0\ref\CompareStringBuilderPerformance.dll

@@ -1,0 +1,15 @@
+D:\Capgemini-Tranning\Assignments\Assignment16\ConcateStrings\bin\Debug\net6.0\ConcateStrings.exe
+D:\Capgemini-Tranning\Assignments\Assignment16\ConcateStrings\bin\Debug\net6.0\ConcateStrings.deps.json
+D:\Capgemini-Tranning\Assignments\Assignment16\ConcateStrings\bin\Debug\net6.0\ConcateStrings.runtimeconfig.json
+D:\Capgemini-Tranning\Assignments\Assignment16\ConcateStrings\bin\Debug\net6.0\ConcateStrings.dll
+D:\Capgemini-Tranning\Assignments\Assignment16\ConcateStrings\bin\Debug\net6.0\ConcateStrings.pdb
+D:\Capgemini-Tranning\Assignments\Assignment16\ConcateStrings\obj\Debug\net6.0\ConcateStrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini-Tranning\Assignments\Assignment16\ConcateStrings\obj\Debug\net6.0\ConcateStrings.AssemblyInfoInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment16\ConcateStrings\obj\Debug\net6.0\ConcateStrings.AssemblyInfo.cs
+D:\Capgemini-Tranning\Assignments\Assignment16\ConcateStrings\obj\Debug\net6.0\ConcateStrings.csproj.CoreCompileInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment16\ConcateStrings\obj\Debug\net6.0\ConcateStrings.sourcelink.json
+D:\Capgemini-Tranning\Assignments\Assignment16\ConcateStrings\obj\Debug\net6.0\ConcateStrings.dll
+D:\Capgemini-Tranning\Assignments\Assignment16\ConcateStrings\obj\Debug\net6.0\refint\ConcateStrings.dll
+D:\Capgemini-Tranning\Assignments\Assignment16\ConcateStrings\obj\Debug\net6.0\ConcateStrings.pdb
+D:\Capgemini-Tranning\Assignments\Assignment16\ConcateStrings\obj\Debug\net6.0\ConcateStrings.genruntimeconfig.cache
+D:\Capgemini-Tranning\Assignments\Assignment16\ConcateStrings\obj\Debug\net6.0\ref\ConcateStrings.dll

@@ -1,0 +1,15 @@
+D:\Capgemini-Tranning\Assignments\Assignment16\ReadLineUsingStreamReader\bin\Debug\net6.0\ReadLineUsingStreamReader.exe
+D:\Capgemini-Tranning\Assignments\Assignment16\ReadLineUsingStreamReader\bin\Debug\net6.0\ReadLineUsingStreamReader.deps.json
+D:\Capgemini-Tranning\Assignments\Assignment16\ReadLineUsingStreamReader\bin\Debug\net6.0\ReadLineUsingStreamReader.runtimeconfig.json
+D:\Capgemini-Tranning\Assignments\Assignment16\ReadLineUsingStreamReader\bin\Debug\net6.0\ReadLineUsingStreamReader.dll
+D:\Capgemini-Tranning\Assignments\Assignment16\ReadLineUsingStreamReader\bin\Debug\net6.0\ReadLineUsingStreamReader.pdb
+D:\Capgemini-Tranning\Assignments\Assignment16\ReadLineUsingStreamReader\obj\Debug\net6.0\ReadLineUsingStreamReader.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini-Tranning\Assignments\Assignment16\ReadLineUsingStreamReader\obj\Debug\net6.0\ReadLineUsingStreamReader.AssemblyInfoInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment16\ReadLineUsingStreamReader\obj\Debug\net6.0\ReadLineUsingStreamReader.AssemblyInfo.cs
+D:\Capgemini-Tranning\Assignments\Assignment16\ReadLineUsingStreamReader\obj\Debug\net6.0\ReadLineUsingStreamReader.csproj.CoreCompileInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment16\ReadLineUsingStreamReader\obj\Debug\net6.0\ReadLineUsingStreamReader.sourcelink.json
+D:\Capgemini-Tranning\Assignments\Assignment16\ReadLineUsingStreamReader\obj\Debug\net6.0\ReadLineUsingStreamReader.dll
+D:\Capgemini-Tranning\Assignments\Assignment16\ReadLineUsingStreamReader\obj\Debug\net6.0\refint\ReadLineUsingStreamReader.dll
+D:\Capgemini-Tranning\Assignments\Assignment16\ReadLineUsingStreamReader\obj\Debug\net6.0\ReadLineUsingStreamReader.pdb
+D:\Capgemini-Tranning\Assignments\Assignment16\ReadLineUsingStreamReader\obj\Debug\net6.0\ReadLineUsingStreamReader.genruntimeconfig.cache
+D:\Capgemini-Tranning\Assignments\Assignment16\ReadLineUsingStreamReader\obj\Debug\net6.0\ref\ReadLineUsingStreamReader.dll

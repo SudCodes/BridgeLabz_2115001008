@@ -1,0 +1,15 @@
+D:\Capgemini-Tranning\Assignments\Assignment16\ReadUserInput\bin\Debug\net6.0\ReadUserInput.exe
+D:\Capgemini-Tranning\Assignments\Assignment16\ReadUserInput\bin\Debug\net6.0\ReadUserInput.deps.json
+D:\Capgemini-Tranning\Assignments\Assignment16\ReadUserInput\bin\Debug\net6.0\ReadUserInput.runtimeconfig.json
+D:\Capgemini-Tranning\Assignments\Assignment16\ReadUserInput\bin\Debug\net6.0\ReadUserInput.dll
+D:\Capgemini-Tranning\Assignments\Assignment16\ReadUserInput\bin\Debug\net6.0\ReadUserInput.pdb
+D:\Capgemini-Tranning\Assignments\Assignment16\ReadUserInput\obj\Debug\net6.0\ReadUserInput.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini-Tranning\Assignments\Assignment16\ReadUserInput\obj\Debug\net6.0\ReadUserInput.AssemblyInfoInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment16\ReadUserInput\obj\Debug\net6.0\ReadUserInput.AssemblyInfo.cs
+D:\Capgemini-Tranning\Assignments\Assignment16\ReadUserInput\obj\Debug\net6.0\ReadUserInput.csproj.CoreCompileInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment16\ReadUserInput\obj\Debug\net6.0\ReadUserInput.sourcelink.json
+D:\Capgemini-Tranning\Assignments\Assignment16\ReadUserInput\obj\Debug\net6.0\ReadUserInput.dll
+D:\Capgemini-Tranning\Assignments\Assignment16\ReadUserInput\obj\Debug\net6.0\refint\ReadUserInput.dll
+D:\Capgemini-Tranning\Assignments\Assignment16\ReadUserInput\obj\Debug\net6.0\ReadUserInput.pdb
+D:\Capgemini-Tranning\Assignments\Assignment16\ReadUserInput\obj\Debug\net6.0\ReadUserInput.genruntimeconfig.cache
+D:\Capgemini-Tranning\Assignments\Assignment16\ReadUserInput\obj\Debug\net6.0\ref\ReadUserInput.dll

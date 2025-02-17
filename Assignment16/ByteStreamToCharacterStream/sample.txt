@@ -1,0 +1,2 @@
+Hello, this is a binary file with text.
+It contains readable characters stored as bytes.

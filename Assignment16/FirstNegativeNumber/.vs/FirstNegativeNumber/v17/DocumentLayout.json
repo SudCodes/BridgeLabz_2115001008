@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Capgemini-Tranning\\Assignments\\Assignment16\\FirstNegativeNumber\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A58031-BD12-4BC8-BF1B-45AF4A24CE55}|FirstNegativeNumber.csproj|d:\\capgemini-tranning\\assignments\\assignment16\\firstnegativenumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A58031-BD12-4BC8-BF1B-45AF4A24CE55}|FirstNegativeNumber.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Capgemini-Tranning\\Assignments\\Assignment16\\FirstNegativeNumber\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Capgemini-Tranning\\Assignments\\Assignment16\\FirstNegativeNumber\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA2wBUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T09:29:25.59Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

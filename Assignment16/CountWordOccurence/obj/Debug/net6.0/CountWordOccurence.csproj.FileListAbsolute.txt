@@ -1,0 +1,15 @@
+D:\Capgemini-Tranning\Assignments\Assignment16\CountWordOccurence\bin\Debug\net6.0\CountWordOccurence.exe
+D:\Capgemini-Tranning\Assignments\Assignment16\CountWordOccurence\bin\Debug\net6.0\CountWordOccurence.deps.json
+D:\Capgemini-Tranning\Assignments\Assignment16\CountWordOccurence\bin\Debug\net6.0\CountWordOccurence.runtimeconfig.json
+D:\Capgemini-Tranning\Assignments\Assignment16\CountWordOccurence\bin\Debug\net6.0\CountWordOccurence.dll
+D:\Capgemini-Tranning\Assignments\Assignment16\CountWordOccurence\bin\Debug\net6.0\CountWordOccurence.pdb
+D:\Capgemini-Tranning\Assignments\Assignment16\CountWordOccurence\obj\Debug\net6.0\CountWordOccurence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini-Tranning\Assignments\Assignment16\CountWordOccurence\obj\Debug\net6.0\CountWordOccurence.AssemblyInfoInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment16\CountWordOccurence\obj\Debug\net6.0\CountWordOccurence.AssemblyInfo.cs
+D:\Capgemini-Tranning\Assignments\Assignment16\CountWordOccurence\obj\Debug\net6.0\CountWordOccurence.csproj.CoreCompileInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment16\CountWordOccurence\obj\Debug\net6.0\CountWordOccurence.sourcelink.json
+D:\Capgemini-Tranning\Assignments\Assignment16\CountWordOccurence\obj\Debug\net6.0\CountWordOccurence.dll
+D:\Capgemini-Tranning\Assignments\Assignment16\CountWordOccurence\obj\Debug\net6.0\refint\CountWordOccurence.dll
+D:\Capgemini-Tranning\Assignments\Assignment16\CountWordOccurence\obj\Debug\net6.0\CountWordOccurence.pdb
+D:\Capgemini-Tranning\Assignments\Assignment16\CountWordOccurence\obj\Debug\net6.0\CountWordOccurence.genruntimeconfig.cache
+D:\Capgemini-Tranning\Assignments\Assignment16\CountWordOccurence\obj\Debug\net6.0\ref\CountWordOccurence.dll

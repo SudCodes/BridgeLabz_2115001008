@@ -1,0 +1,15 @@
+D:\Capgemini-Tranning\Assignments\Assignment16\FindPeakElement\bin\Debug\net6.0\FindPeakElement.exe
+D:\Capgemini-Tranning\Assignments\Assignment16\FindPeakElement\bin\Debug\net6.0\FindPeakElement.deps.json
+D:\Capgemini-Tranning\Assignments\Assignment16\FindPeakElement\bin\Debug\net6.0\FindPeakElement.runtimeconfig.json
+D:\Capgemini-Tranning\Assignments\Assignment16\FindPeakElement\bin\Debug\net6.0\FindPeakElement.dll
+D:\Capgemini-Tranning\Assignments\Assignment16\FindPeakElement\bin\Debug\net6.0\FindPeakElement.pdb
+D:\Capgemini-Tranning\Assignments\Assignment16\FindPeakElement\obj\Debug\net6.0\FindPeakElement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini-Tranning\Assignments\Assignment16\FindPeakElement\obj\Debug\net6.0\FindPeakElement.AssemblyInfoInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment16\FindPeakElement\obj\Debug\net6.0\FindPeakElement.AssemblyInfo.cs
+D:\Capgemini-Tranning\Assignments\Assignment16\FindPeakElement\obj\Debug\net6.0\FindPeakElement.csproj.CoreCompileInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment16\FindPeakElement\obj\Debug\net6.0\FindPeakElement.sourcelink.json
+D:\Capgemini-Tranning\Assignments\Assignment16\FindPeakElement\obj\Debug\net6.0\FindPeakElement.dll
+D:\Capgemini-Tranning\Assignments\Assignment16\FindPeakElement\obj\Debug\net6.0\refint\FindPeakElement.dll
+D:\Capgemini-Tranning\Assignments\Assignment16\FindPeakElement\obj\Debug\net6.0\FindPeakElement.pdb
+D:\Capgemini-Tranning\Assignments\Assignment16\FindPeakElement\obj\Debug\net6.0\FindPeakElement.genruntimeconfig.cache
+D:\Capgemini-Tranning\Assignments\Assignment16\FindPeakElement\obj\Debug\net6.0\ref\FindPeakElement.dll

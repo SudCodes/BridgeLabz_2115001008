@@ -1,0 +1,15 @@
+D:\Capgemini-Tranning\Assignments\Assignment16\ByteStreamToCharacterStream\bin\Debug\net6.0\ByteStreamToCharacterStream.exe
+D:\Capgemini-Tranning\Assignments\Assignment16\ByteStreamToCharacterStream\bin\Debug\net6.0\ByteStreamToCharacterStream.deps.json
+D:\Capgemini-Tranning\Assignments\Assignment16\ByteStreamToCharacterStream\bin\Debug\net6.0\ByteStreamToCharacterStream.runtimeconfig.json
+D:\Capgemini-Tranning\Assignments\Assignment16\ByteStreamToCharacterStream\bin\Debug\net6.0\ByteStreamToCharacterStream.dll
+D:\Capgemini-Tranning\Assignments\Assignment16\ByteStreamToCharacterStream\bin\Debug\net6.0\ByteStreamToCharacterStream.pdb
+D:\Capgemini-Tranning\Assignments\Assignment16\ByteStreamToCharacterStream\obj\Debug\net6.0\ByteStreamToCharacterStream.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini-Tranning\Assignments\Assignment16\ByteStreamToCharacterStream\obj\Debug\net6.0\ByteStreamToCharacterStream.AssemblyInfoInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment16\ByteStreamToCharacterStream\obj\Debug\net6.0\ByteStreamToCharacterStream.AssemblyInfo.cs
+D:\Capgemini-Tranning\Assignments\Assignment16\ByteStreamToCharacterStream\obj\Debug\net6.0\ByteStreamToCharacterStream.csproj.CoreCompileInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment16\ByteStreamToCharacterStream\obj\Debug\net6.0\ByteStreamToCharacterStream.sourcelink.json
+D:\Capgemini-Tranning\Assignments\Assignment16\ByteStreamToCharacterStream\obj\Debug\net6.0\ByteStreamToCharacterStream.dll
+D:\Capgemini-Tranning\Assignments\Assignment16\ByteStreamToCharacterStream\obj\Debug\net6.0\refint\ByteStreamToCharacterStream.dll
+D:\Capgemini-Tranning\Assignments\Assignment16\ByteStreamToCharacterStream\obj\Debug\net6.0\ByteStreamToCharacterStream.pdb
+D:\Capgemini-Tranning\Assignments\Assignment16\ByteStreamToCharacterStream\obj\Debug\net6.0\ByteStreamToCharacterStream.genruntimeconfig.cache
+D:\Capgemini-Tranning\Assignments\Assignment16\ByteStreamToCharacterStream\obj\Debug\net6.0\ref\ByteStreamToCharacterStream.dll

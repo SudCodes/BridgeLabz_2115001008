@@ -1,0 +1,15 @@
+D:\Capgemini-Tranning\Assignments\Assignment16\Search2DMatrix\bin\Debug\net6.0\Search2DMatrix.exe
+D:\Capgemini-Tranning\Assignments\Assignment16\Search2DMatrix\bin\Debug\net6.0\Search2DMatrix.deps.json
+D:\Capgemini-Tranning\Assignments\Assignment16\Search2DMatrix\bin\Debug\net6.0\Search2DMatrix.runtimeconfig.json
+D:\Capgemini-Tranning\Assignments\Assignment16\Search2DMatrix\bin\Debug\net6.0\Search2DMatrix.dll
+D:\Capgemini-Tranning\Assignments\Assignment16\Search2DMatrix\bin\Debug\net6.0\Search2DMatrix.pdb
+D:\Capgemini-Tranning\Assignments\Assignment16\Search2DMatrix\obj\Debug\net6.0\Search2DMatrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini-Tranning\Assignments\Assignment16\Search2DMatrix\obj\Debug\net6.0\Search2DMatrix.AssemblyInfoInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment16\Search2DMatrix\obj\Debug\net6.0\Search2DMatrix.AssemblyInfo.cs
+D:\Capgemini-Tranning\Assignments\Assignment16\Search2DMatrix\obj\Debug\net6.0\Search2DMatrix.csproj.CoreCompileInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment16\Search2DMatrix\obj\Debug\net6.0\Search2DMatrix.sourcelink.json
+D:\Capgemini-Tranning\Assignments\Assignment16\Search2DMatrix\obj\Debug\net6.0\Search2DMatrix.dll
+D:\Capgemini-Tranning\Assignments\Assignment16\Search2DMatrix\obj\Debug\net6.0\refint\Search2DMatrix.dll
+D:\Capgemini-Tranning\Assignments\Assignment16\Search2DMatrix\obj\Debug\net6.0\Search2DMatrix.pdb
+D:\Capgemini-Tranning\Assignments\Assignment16\Search2DMatrix\obj\Debug\net6.0\Search2DMatrix.genruntimeconfig.cache
+D:\Capgemini-Tranning\Assignments\Assignment16\Search2DMatrix\obj\Debug\net6.0\ref\Search2DMatrix.dll

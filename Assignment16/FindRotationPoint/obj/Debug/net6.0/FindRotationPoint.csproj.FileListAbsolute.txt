@@ -1,0 +1,15 @@
+D:\Capgemini-Tranning\Assignments\Assignment16\FindRotationPoint\bin\Debug\net6.0\FindRotationPoint.exe
+D:\Capgemini-Tranning\Assignments\Assignment16\FindRotationPoint\bin\Debug\net6.0\FindRotationPoint.deps.json
+D:\Capgemini-Tranning\Assignments\Assignment16\FindRotationPoint\bin\Debug\net6.0\FindRotationPoint.runtimeconfig.json
+D:\Capgemini-Tranning\Assignments\Assignment16\FindRotationPoint\bin\Debug\net6.0\FindRotationPoint.dll
+D:\Capgemini-Tranning\Assignments\Assignment16\FindRotationPoint\bin\Debug\net6.0\FindRotationPoint.pdb
+D:\Capgemini-Tranning\Assignments\Assignment16\FindRotationPoint\obj\Debug\net6.0\FindRotationPoint.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini-Tranning\Assignments\Assignment16\FindRotationPoint\obj\Debug\net6.0\FindRotationPoint.AssemblyInfoInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment16\FindRotationPoint\obj\Debug\net6.0\FindRotationPoint.AssemblyInfo.cs
+D:\Capgemini-Tranning\Assignments\Assignment16\FindRotationPoint\obj\Debug\net6.0\FindRotationPoint.csproj.CoreCompileInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment16\FindRotationPoint\obj\Debug\net6.0\FindRotationPoint.sourcelink.json
+D:\Capgemini-Tranning\Assignments\Assignment16\FindRotationPoint\obj\Debug\net6.0\FindRotationPoint.dll
+D:\Capgemini-Tranning\Assignments\Assignment16\FindRotationPoint\obj\Debug\net6.0\refint\FindRotationPoint.dll
+D:\Capgemini-Tranning\Assignments\Assignment16\FindRotationPoint\obj\Debug\net6.0\FindRotationPoint.pdb
+D:\Capgemini-Tranning\Assignments\Assignment16\FindRotationPoint\obj\Debug\net6.0\FindRotationPoint.genruntimeconfig.cache
+D:\Capgemini-Tranning\Assignments\Assignment16\FindRotationPoint\obj\Debug\net6.0\ref\FindRotationPoint.dll

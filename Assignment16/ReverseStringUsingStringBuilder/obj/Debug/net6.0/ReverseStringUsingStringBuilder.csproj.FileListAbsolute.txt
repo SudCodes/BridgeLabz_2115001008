@@ -1,0 +1,15 @@
+D:\Capgemini-Tranning\Assignments\Assignment16\ReverseStringUsingStringBuilder\bin\Debug\net6.0\ReverseStringUsingStringBuilder.exe
+D:\Capgemini-Tranning\Assignments\Assignment16\ReverseStringUsingStringBuilder\bin\Debug\net6.0\ReverseStringUsingStringBuilder.deps.json
+D:\Capgemini-Tranning\Assignments\Assignment16\ReverseStringUsingStringBuilder\bin\Debug\net6.0\ReverseStringUsingStringBuilder.runtimeconfig.json
+D:\Capgemini-Tranning\Assignments\Assignment16\ReverseStringUsingStringBuilder\bin\Debug\net6.0\ReverseStringUsingStringBuilder.dll
+D:\Capgemini-Tranning\Assignments\Assignment16\ReverseStringUsingStringBuilder\bin\Debug\net6.0\ReverseStringUsingStringBuilder.pdb
+D:\Capgemini-Tranning\Assignments\Assignment16\ReverseStringUsingStringBuilder\obj\Debug\net6.0\ReverseStringUsingStringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini-Tranning\Assignments\Assignment16\ReverseStringUsingStringBuilder\obj\Debug\net6.0\ReverseStringUsingStringBuilder.AssemblyInfoInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment16\ReverseStringUsingStringBuilder\obj\Debug\net6.0\ReverseStringUsingStringBuilder.AssemblyInfo.cs
+D:\Capgemini-Tranning\Assignments\Assignment16\ReverseStringUsingStringBuilder\obj\Debug\net6.0\ReverseStringUsingStringBuilder.csproj.CoreCompileInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment16\ReverseStringUsingStringBuilder\obj\Debug\net6.0\ReverseStringUsingStringBuilder.sourcelink.json
+D:\Capgemini-Tranning\Assignments\Assignment16\ReverseStringUsingStringBuilder\obj\Debug\net6.0\ReverseStringUsingStringBuilder.dll
+D:\Capgemini-Tranning\Assignments\Assignment16\ReverseStringUsingStringBuilder\obj\Debug\net6.0\refint\ReverseStringUsingStringBuilder.dll
+D:\Capgemini-Tranning\Assignments\Assignment16\ReverseStringUsingStringBuilder\obj\Debug\net6.0\ReverseStringUsingStringBuilder.pdb
+D:\Capgemini-Tranning\Assignments\Assignment16\ReverseStringUsingStringBuilder\obj\Debug\net6.0\ReverseStringUsingStringBuilder.genruntimeconfig.cache
+D:\Capgemini-Tranning\Assignments\Assignment16\ReverseStringUsingStringBuilder\obj\Debug\net6.0\ref\ReverseStringUsingStringBuilder.dll
