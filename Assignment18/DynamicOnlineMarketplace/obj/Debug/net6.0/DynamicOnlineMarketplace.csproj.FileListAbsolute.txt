@@ -1,0 +1,15 @@
+D:\Capgemini-Tranning\Assignments\Assignment18\DynamicOnlineMarketplace\bin\Debug\net6.0\DynamicOnlineMarketplace.exe
+D:\Capgemini-Tranning\Assignments\Assignment18\DynamicOnlineMarketplace\bin\Debug\net6.0\DynamicOnlineMarketplace.deps.json
+D:\Capgemini-Tranning\Assignments\Assignment18\DynamicOnlineMarketplace\bin\Debug\net6.0\DynamicOnlineMarketplace.runtimeconfig.json
+D:\Capgemini-Tranning\Assignments\Assignment18\DynamicOnlineMarketplace\bin\Debug\net6.0\DynamicOnlineMarketplace.dll
+D:\Capgemini-Tranning\Assignments\Assignment18\DynamicOnlineMarketplace\bin\Debug\net6.0\DynamicOnlineMarketplace.pdb
+D:\Capgemini-Tranning\Assignments\Assignment18\DynamicOnlineMarketplace\obj\Debug\net6.0\DynamicOnlineMarketplace.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini-Tranning\Assignments\Assignment18\DynamicOnlineMarketplace\obj\Debug\net6.0\DynamicOnlineMarketplace.AssemblyInfoInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment18\DynamicOnlineMarketplace\obj\Debug\net6.0\DynamicOnlineMarketplace.AssemblyInfo.cs
+D:\Capgemini-Tranning\Assignments\Assignment18\DynamicOnlineMarketplace\obj\Debug\net6.0\DynamicOnlineMarketplace.csproj.CoreCompileInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment18\DynamicOnlineMarketplace\obj\Debug\net6.0\DynamicOnlineMarketplace.sourcelink.json
+D:\Capgemini-Tranning\Assignments\Assignment18\DynamicOnlineMarketplace\obj\Debug\net6.0\DynamicOnlineMarketplace.dll
+D:\Capgemini-Tranning\Assignments\Assignment18\DynamicOnlineMarketplace\obj\Debug\net6.0\refint\DynamicOnlineMarketplace.dll
+D:\Capgemini-Tranning\Assignments\Assignment18\DynamicOnlineMarketplace\obj\Debug\net6.0\DynamicOnlineMarketplace.pdb
+D:\Capgemini-Tranning\Assignments\Assignment18\DynamicOnlineMarketplace\obj\Debug\net6.0\DynamicOnlineMarketplace.genruntimeconfig.cache
+D:\Capgemini-Tranning\Assignments\Assignment18\DynamicOnlineMarketplace\obj\Debug\net6.0\ref\DynamicOnlineMarketplace.dll

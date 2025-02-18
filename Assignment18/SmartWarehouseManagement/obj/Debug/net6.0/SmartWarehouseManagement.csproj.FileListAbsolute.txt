@@ -1,0 +1,15 @@
+D:\Capgemini-Tranning\Assignments\Assignment18\SmartWarehouseManagement\bin\Debug\net6.0\SmartWarehouseManagement.exe
+D:\Capgemini-Tranning\Assignments\Assignment18\SmartWarehouseManagement\bin\Debug\net6.0\SmartWarehouseManagement.deps.json
+D:\Capgemini-Tranning\Assignments\Assignment18\SmartWarehouseManagement\bin\Debug\net6.0\SmartWarehouseManagement.runtimeconfig.json
+D:\Capgemini-Tranning\Assignments\Assignment18\SmartWarehouseManagement\bin\Debug\net6.0\SmartWarehouseManagement.dll
+D:\Capgemini-Tranning\Assignments\Assignment18\SmartWarehouseManagement\bin\Debug\net6.0\SmartWarehouseManagement.pdb
+D:\Capgemini-Tranning\Assignments\Assignment18\SmartWarehouseManagement\obj\Debug\net6.0\SmartWarehouseManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini-Tranning\Assignments\Assignment18\SmartWarehouseManagement\obj\Debug\net6.0\SmartWarehouseManagement.AssemblyInfoInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment18\SmartWarehouseManagement\obj\Debug\net6.0\SmartWarehouseManagement.AssemblyInfo.cs
+D:\Capgemini-Tranning\Assignments\Assignment18\SmartWarehouseManagement\obj\Debug\net6.0\SmartWarehouseManagement.csproj.CoreCompileInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment18\SmartWarehouseManagement\obj\Debug\net6.0\SmartWarehouseManagement.sourcelink.json
+D:\Capgemini-Tranning\Assignments\Assignment18\SmartWarehouseManagement\obj\Debug\net6.0\SmartWarehouseManagement.dll
+D:\Capgemini-Tranning\Assignments\Assignment18\SmartWarehouseManagement\obj\Debug\net6.0\refint\SmartWarehouseManagement.dll
+D:\Capgemini-Tranning\Assignments\Assignment18\SmartWarehouseManagement\obj\Debug\net6.0\SmartWarehouseManagement.pdb
+D:\Capgemini-Tranning\Assignments\Assignment18\SmartWarehouseManagement\obj\Debug\net6.0\SmartWarehouseManagement.genruntimeconfig.cache
+D:\Capgemini-Tranning\Assignments\Assignment18\SmartWarehouseManagement\obj\Debug\net6.0\ref\SmartWarehouseManagement.dll

@@ -1,0 +1,15 @@
+D:\Capgemini-Tranning\Assignments\Assignment18\PersonlizedMealPlanner\bin\Debug\net6.0\PersonlizedMealPlanner.exe
+D:\Capgemini-Tranning\Assignments\Assignment18\PersonlizedMealPlanner\bin\Debug\net6.0\PersonlizedMealPlanner.deps.json
+D:\Capgemini-Tranning\Assignments\Assignment18\PersonlizedMealPlanner\bin\Debug\net6.0\PersonlizedMealPlanner.runtimeconfig.json
+D:\Capgemini-Tranning\Assignments\Assignment18\PersonlizedMealPlanner\bin\Debug\net6.0\PersonlizedMealPlanner.dll
+D:\Capgemini-Tranning\Assignments\Assignment18\PersonlizedMealPlanner\bin\Debug\net6.0\PersonlizedMealPlanner.pdb
+D:\Capgemini-Tranning\Assignments\Assignment18\PersonlizedMealPlanner\obj\Debug\net6.0\PersonlizedMealPlanner.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini-Tranning\Assignments\Assignment18\PersonlizedMealPlanner\obj\Debug\net6.0\PersonlizedMealPlanner.AssemblyInfoInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment18\PersonlizedMealPlanner\obj\Debug\net6.0\PersonlizedMealPlanner.AssemblyInfo.cs
+D:\Capgemini-Tranning\Assignments\Assignment18\PersonlizedMealPlanner\obj\Debug\net6.0\PersonlizedMealPlanner.csproj.CoreCompileInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment18\PersonlizedMealPlanner\obj\Debug\net6.0\PersonlizedMealPlanner.sourcelink.json
+D:\Capgemini-Tranning\Assignments\Assignment18\PersonlizedMealPlanner\obj\Debug\net6.0\PersonlizedMealPlanner.dll
+D:\Capgemini-Tranning\Assignments\Assignment18\PersonlizedMealPlanner\obj\Debug\net6.0\refint\PersonlizedMealPlanner.dll
+D:\Capgemini-Tranning\Assignments\Assignment18\PersonlizedMealPlanner\obj\Debug\net6.0\PersonlizedMealPlanner.pdb
+D:\Capgemini-Tranning\Assignments\Assignment18\PersonlizedMealPlanner\obj\Debug\net6.0\PersonlizedMealPlanner.genruntimeconfig.cache
+D:\Capgemini-Tranning\Assignments\Assignment18\PersonlizedMealPlanner\obj\Debug\net6.0\ref\PersonlizedMealPlanner.dll
