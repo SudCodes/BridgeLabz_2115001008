@@ -1,0 +1,15 @@
+D:\Capgemini-Tranning\Assignments\Assignment19\WordFrequencyCounter\bin\Debug\net6.0\WordFrequencyCounter.exe
+D:\Capgemini-Tranning\Assignments\Assignment19\WordFrequencyCounter\bin\Debug\net6.0\WordFrequencyCounter.deps.json
+D:\Capgemini-Tranning\Assignments\Assignment19\WordFrequencyCounter\bin\Debug\net6.0\WordFrequencyCounter.runtimeconfig.json
+D:\Capgemini-Tranning\Assignments\Assignment19\WordFrequencyCounter\bin\Debug\net6.0\WordFrequencyCounter.dll
+D:\Capgemini-Tranning\Assignments\Assignment19\WordFrequencyCounter\bin\Debug\net6.0\WordFrequencyCounter.pdb
+D:\Capgemini-Tranning\Assignments\Assignment19\WordFrequencyCounter\obj\Debug\net6.0\WordFrequencyCounter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini-Tranning\Assignments\Assignment19\WordFrequencyCounter\obj\Debug\net6.0\WordFrequencyCounter.AssemblyInfoInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment19\WordFrequencyCounter\obj\Debug\net6.0\WordFrequencyCounter.AssemblyInfo.cs
+D:\Capgemini-Tranning\Assignments\Assignment19\WordFrequencyCounter\obj\Debug\net6.0\WordFrequencyCounter.csproj.CoreCompileInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment19\WordFrequencyCounter\obj\Debug\net6.0\WordFrequencyCounter.sourcelink.json
+D:\Capgemini-Tranning\Assignments\Assignment19\WordFrequencyCounter\obj\Debug\net6.0\WordFrequencyCounter.dll
+D:\Capgemini-Tranning\Assignments\Assignment19\WordFrequencyCounter\obj\Debug\net6.0\refint\WordFrequencyCounter.dll
+D:\Capgemini-Tranning\Assignments\Assignment19\WordFrequencyCounter\obj\Debug\net6.0\WordFrequencyCounter.pdb
+D:\Capgemini-Tranning\Assignments\Assignment19\WordFrequencyCounter\obj\Debug\net6.0\WordFrequencyCounter.genruntimeconfig.cache
+D:\Capgemini-Tranning\Assignments\Assignment19\WordFrequencyCounter\obj\Debug\net6.0\ref\WordFrequencyCounter.dll

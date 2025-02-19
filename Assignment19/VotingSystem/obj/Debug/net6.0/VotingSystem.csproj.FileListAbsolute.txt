@@ -1,0 +1,15 @@
+D:\Capgemini-Tranning\Assignments\Assignment19\VotingSystem\bin\Debug\net6.0\VotingSystem.exe
+D:\Capgemini-Tranning\Assignments\Assignment19\VotingSystem\bin\Debug\net6.0\VotingSystem.deps.json
+D:\Capgemini-Tranning\Assignments\Assignment19\VotingSystem\bin\Debug\net6.0\VotingSystem.runtimeconfig.json
+D:\Capgemini-Tranning\Assignments\Assignment19\VotingSystem\bin\Debug\net6.0\VotingSystem.dll
+D:\Capgemini-Tranning\Assignments\Assignment19\VotingSystem\bin\Debug\net6.0\VotingSystem.pdb
+D:\Capgemini-Tranning\Assignments\Assignment19\VotingSystem\obj\Debug\net6.0\VotingSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini-Tranning\Assignments\Assignment19\VotingSystem\obj\Debug\net6.0\VotingSystem.AssemblyInfoInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment19\VotingSystem\obj\Debug\net6.0\VotingSystem.AssemblyInfo.cs
+D:\Capgemini-Tranning\Assignments\Assignment19\VotingSystem\obj\Debug\net6.0\VotingSystem.csproj.CoreCompileInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment19\VotingSystem\obj\Debug\net6.0\VotingSystem.sourcelink.json
+D:\Capgemini-Tranning\Assignments\Assignment19\VotingSystem\obj\Debug\net6.0\VotingSystem.dll
+D:\Capgemini-Tranning\Assignments\Assignment19\VotingSystem\obj\Debug\net6.0\refint\VotingSystem.dll
+D:\Capgemini-Tranning\Assignments\Assignment19\VotingSystem\obj\Debug\net6.0\VotingSystem.pdb
+D:\Capgemini-Tranning\Assignments\Assignment19\VotingSystem\obj\Debug\net6.0\VotingSystem.genruntimeconfig.cache
+D:\Capgemini-Tranning\Assignments\Assignment19\VotingSystem\obj\Debug\net6.0\ref\VotingSystem.dll
