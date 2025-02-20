@@ -1,0 +1,15 @@
+D:\Capgemini-Tranning\Assignments\Assignment20\ReadAndWrite\bin\Debug\net6.0\ReadAndWrite.exe
+D:\Capgemini-Tranning\Assignments\Assignment20\ReadAndWrite\bin\Debug\net6.0\ReadAndWrite.deps.json
+D:\Capgemini-Tranning\Assignments\Assignment20\ReadAndWrite\bin\Debug\net6.0\ReadAndWrite.runtimeconfig.json
+D:\Capgemini-Tranning\Assignments\Assignment20\ReadAndWrite\bin\Debug\net6.0\ReadAndWrite.dll
+D:\Capgemini-Tranning\Assignments\Assignment20\ReadAndWrite\bin\Debug\net6.0\ReadAndWrite.pdb
+D:\Capgemini-Tranning\Assignments\Assignment20\ReadAndWrite\obj\Debug\net6.0\ReadAndWrite.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini-Tranning\Assignments\Assignment20\ReadAndWrite\obj\Debug\net6.0\ReadAndWrite.AssemblyInfoInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment20\ReadAndWrite\obj\Debug\net6.0\ReadAndWrite.AssemblyInfo.cs
+D:\Capgemini-Tranning\Assignments\Assignment20\ReadAndWrite\obj\Debug\net6.0\ReadAndWrite.csproj.CoreCompileInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment20\ReadAndWrite\obj\Debug\net6.0\ReadAndWrite.sourcelink.json
+D:\Capgemini-Tranning\Assignments\Assignment20\ReadAndWrite\obj\Debug\net6.0\ReadAndWrite.dll
+D:\Capgemini-Tranning\Assignments\Assignment20\ReadAndWrite\obj\Debug\net6.0\refint\ReadAndWrite.dll
+D:\Capgemini-Tranning\Assignments\Assignment20\ReadAndWrite\obj\Debug\net6.0\ReadAndWrite.pdb
+D:\Capgemini-Tranning\Assignments\Assignment20\ReadAndWrite\obj\Debug\net6.0\ReadAndWrite.genruntimeconfig.cache
+D:\Capgemini-Tranning\Assignments\Assignment20\ReadAndWrite\obj\Debug\net6.0\ref\ReadAndWrite.dll
