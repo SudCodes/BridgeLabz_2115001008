@@ -1,0 +1,15 @@
+D:\Capgemini-Tranning\Assignments\Assignment21\ExtractCurrenctValue\bin\Debug\net6.0\ExtractCurrenctValue.exe
+D:\Capgemini-Tranning\Assignments\Assignment21\ExtractCurrenctValue\bin\Debug\net6.0\ExtractCurrenctValue.deps.json
+D:\Capgemini-Tranning\Assignments\Assignment21\ExtractCurrenctValue\bin\Debug\net6.0\ExtractCurrenctValue.runtimeconfig.json
+D:\Capgemini-Tranning\Assignments\Assignment21\ExtractCurrenctValue\bin\Debug\net6.0\ExtractCurrenctValue.dll
+D:\Capgemini-Tranning\Assignments\Assignment21\ExtractCurrenctValue\bin\Debug\net6.0\ExtractCurrenctValue.pdb
+D:\Capgemini-Tranning\Assignments\Assignment21\ExtractCurrenctValue\obj\Debug\net6.0\ExtractCurrenctValue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini-Tranning\Assignments\Assignment21\ExtractCurrenctValue\obj\Debug\net6.0\ExtractCurrenctValue.AssemblyInfoInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment21\ExtractCurrenctValue\obj\Debug\net6.0\ExtractCurrenctValue.AssemblyInfo.cs
+D:\Capgemini-Tranning\Assignments\Assignment21\ExtractCurrenctValue\obj\Debug\net6.0\ExtractCurrenctValue.csproj.CoreCompileInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment21\ExtractCurrenctValue\obj\Debug\net6.0\ExtractCurrenctValue.sourcelink.json
+D:\Capgemini-Tranning\Assignments\Assignment21\ExtractCurrenctValue\obj\Debug\net6.0\ExtractCurrenctValue.dll
+D:\Capgemini-Tranning\Assignments\Assignment21\ExtractCurrenctValue\obj\Debug\net6.0\refint\ExtractCurrenctValue.dll
+D:\Capgemini-Tranning\Assignments\Assignment21\ExtractCurrenctValue\obj\Debug\net6.0\ExtractCurrenctValue.pdb
+D:\Capgemini-Tranning\Assignments\Assignment21\ExtractCurrenctValue\obj\Debug\net6.0\ExtractCurrenctValue.genruntimeconfig.cache
+D:\Capgemini-Tranning\Assignments\Assignment21\ExtractCurrenctValue\obj\Debug\net6.0\ref\ExtractCurrenctValue.dll

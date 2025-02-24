@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtractLinks", "ExtractLinks.csproj", "{4025D436-57B9-4112-A09B-D3E819D00EDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4025D436-57B9-4112-A09B-D3E819D00EDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4025D436-57B9-4112-A09B-D3E819D00EDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4025D436-57B9-4112-A09B-D3E819D00EDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4025D436-57B9-4112-A09B-D3E819D00EDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

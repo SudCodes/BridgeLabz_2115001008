@@ -1,0 +1,15 @@
+D:\Capgemini-Tranning\Assignments\Assignment21\ExtractCapitalizedWords\bin\Debug\net6.0\ExtractCapitalizedWords.exe
+D:\Capgemini-Tranning\Assignments\Assignment21\ExtractCapitalizedWords\bin\Debug\net6.0\ExtractCapitalizedWords.deps.json
+D:\Capgemini-Tranning\Assignments\Assignment21\ExtractCapitalizedWords\bin\Debug\net6.0\ExtractCapitalizedWords.runtimeconfig.json
+D:\Capgemini-Tranning\Assignments\Assignment21\ExtractCapitalizedWords\bin\Debug\net6.0\ExtractCapitalizedWords.dll
+D:\Capgemini-Tranning\Assignments\Assignment21\ExtractCapitalizedWords\bin\Debug\net6.0\ExtractCapitalizedWords.pdb
+D:\Capgemini-Tranning\Assignments\Assignment21\ExtractCapitalizedWords\obj\Debug\net6.0\ExtractCapitalizedWords.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini-Tranning\Assignments\Assignment21\ExtractCapitalizedWords\obj\Debug\net6.0\ExtractCapitalizedWords.AssemblyInfoInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment21\ExtractCapitalizedWords\obj\Debug\net6.0\ExtractCapitalizedWords.AssemblyInfo.cs
+D:\Capgemini-Tranning\Assignments\Assignment21\ExtractCapitalizedWords\obj\Debug\net6.0\ExtractCapitalizedWords.csproj.CoreCompileInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment21\ExtractCapitalizedWords\obj\Debug\net6.0\ExtractCapitalizedWords.sourcelink.json
+D:\Capgemini-Tranning\Assignments\Assignment21\ExtractCapitalizedWords\obj\Debug\net6.0\ExtractCapitalizedWords.dll
+D:\Capgemini-Tranning\Assignments\Assignment21\ExtractCapitalizedWords\obj\Debug\net6.0\refint\ExtractCapitalizedWords.dll
+D:\Capgemini-Tranning\Assignments\Assignment21\ExtractCapitalizedWords\obj\Debug\net6.0\ExtractCapitalizedWords.pdb
+D:\Capgemini-Tranning\Assignments\Assignment21\ExtractCapitalizedWords\obj\Debug\net6.0\ExtractCapitalizedWords.genruntimeconfig.cache
+D:\Capgemini-Tranning\Assignments\Assignment21\ExtractCapitalizedWords\obj\Debug\net6.0\ref\ExtractCapitalizedWords.dll

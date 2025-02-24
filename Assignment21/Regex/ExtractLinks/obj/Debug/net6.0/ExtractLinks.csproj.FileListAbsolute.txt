@@ -1,0 +1,15 @@
+D:\Capgemini-Tranning\Assignments\Assignment21\ExtractLinks\bin\Debug\net6.0\ExtractLinks.exe
+D:\Capgemini-Tranning\Assignments\Assignment21\ExtractLinks\bin\Debug\net6.0\ExtractLinks.deps.json
+D:\Capgemini-Tranning\Assignments\Assignment21\ExtractLinks\bin\Debug\net6.0\ExtractLinks.runtimeconfig.json
+D:\Capgemini-Tranning\Assignments\Assignment21\ExtractLinks\bin\Debug\net6.0\ExtractLinks.dll
+D:\Capgemini-Tranning\Assignments\Assignment21\ExtractLinks\bin\Debug\net6.0\ExtractLinks.pdb
+D:\Capgemini-Tranning\Assignments\Assignment21\ExtractLinks\obj\Debug\net6.0\ExtractLinks.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini-Tranning\Assignments\Assignment21\ExtractLinks\obj\Debug\net6.0\ExtractLinks.AssemblyInfoInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment21\ExtractLinks\obj\Debug\net6.0\ExtractLinks.AssemblyInfo.cs
+D:\Capgemini-Tranning\Assignments\Assignment21\ExtractLinks\obj\Debug\net6.0\ExtractLinks.csproj.CoreCompileInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment21\ExtractLinks\obj\Debug\net6.0\ExtractLinks.sourcelink.json
+D:\Capgemini-Tranning\Assignments\Assignment21\ExtractLinks\obj\Debug\net6.0\ExtractLinks.dll
+D:\Capgemini-Tranning\Assignments\Assignment21\ExtractLinks\obj\Debug\net6.0\refint\ExtractLinks.dll
+D:\Capgemini-Tranning\Assignments\Assignment21\ExtractLinks\obj\Debug\net6.0\ExtractLinks.pdb
+D:\Capgemini-Tranning\Assignments\Assignment21\ExtractLinks\obj\Debug\net6.0\ExtractLinks.genruntimeconfig.cache
+D:\Capgemini-Tranning\Assignments\Assignment21\ExtractLinks\obj\Debug\net6.0\ref\ExtractLinks.dll

@@ -1,0 +1,15 @@
+D:\Capgemini-Tranning\Assignments\Assignment21\ValidateSSN\bin\Debug\net6.0\ValidateSSN.exe
+D:\Capgemini-Tranning\Assignments\Assignment21\ValidateSSN\bin\Debug\net6.0\ValidateSSN.deps.json
+D:\Capgemini-Tranning\Assignments\Assignment21\ValidateSSN\bin\Debug\net6.0\ValidateSSN.runtimeconfig.json
+D:\Capgemini-Tranning\Assignments\Assignment21\ValidateSSN\bin\Debug\net6.0\ValidateSSN.dll
+D:\Capgemini-Tranning\Assignments\Assignment21\ValidateSSN\bin\Debug\net6.0\ValidateSSN.pdb
+D:\Capgemini-Tranning\Assignments\Assignment21\ValidateSSN\obj\Debug\net6.0\ValidateSSN.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini-Tranning\Assignments\Assignment21\ValidateSSN\obj\Debug\net6.0\ValidateSSN.AssemblyInfoInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment21\ValidateSSN\obj\Debug\net6.0\ValidateSSN.AssemblyInfo.cs
+D:\Capgemini-Tranning\Assignments\Assignment21\ValidateSSN\obj\Debug\net6.0\ValidateSSN.csproj.CoreCompileInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment21\ValidateSSN\obj\Debug\net6.0\ValidateSSN.sourcelink.json
+D:\Capgemini-Tranning\Assignments\Assignment21\ValidateSSN\obj\Debug\net6.0\ValidateSSN.dll
+D:\Capgemini-Tranning\Assignments\Assignment21\ValidateSSN\obj\Debug\net6.0\refint\ValidateSSN.dll
+D:\Capgemini-Tranning\Assignments\Assignment21\ValidateSSN\obj\Debug\net6.0\ValidateSSN.pdb
+D:\Capgemini-Tranning\Assignments\Assignment21\ValidateSSN\obj\Debug\net6.0\ValidateSSN.genruntimeconfig.cache
+D:\Capgemini-Tranning\Assignments\Assignment21\ValidateSSN\obj\Debug\net6.0\ref\ValidateSSN.dll

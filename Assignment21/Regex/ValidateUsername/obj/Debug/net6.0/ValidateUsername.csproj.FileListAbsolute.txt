@@ -1,0 +1,15 @@
+D:\Capgemini-Tranning\Assignments\Assignment21\ValidateUsername\bin\Debug\net6.0\ValidateUsername.exe
+D:\Capgemini-Tranning\Assignments\Assignment21\ValidateUsername\bin\Debug\net6.0\ValidateUsername.deps.json
+D:\Capgemini-Tranning\Assignments\Assignment21\ValidateUsername\bin\Debug\net6.0\ValidateUsername.runtimeconfig.json
+D:\Capgemini-Tranning\Assignments\Assignment21\ValidateUsername\bin\Debug\net6.0\ValidateUsername.dll
+D:\Capgemini-Tranning\Assignments\Assignment21\ValidateUsername\bin\Debug\net6.0\ValidateUsername.pdb
+D:\Capgemini-Tranning\Assignments\Assignment21\ValidateUsername\obj\Debug\net6.0\ValidateUsername.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini-Tranning\Assignments\Assignment21\ValidateUsername\obj\Debug\net6.0\ValidateUsername.AssemblyInfoInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment21\ValidateUsername\obj\Debug\net6.0\ValidateUsername.AssemblyInfo.cs
+D:\Capgemini-Tranning\Assignments\Assignment21\ValidateUsername\obj\Debug\net6.0\ValidateUsername.csproj.CoreCompileInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment21\ValidateUsername\obj\Debug\net6.0\ValidateUsername.sourcelink.json
+D:\Capgemini-Tranning\Assignments\Assignment21\ValidateUsername\obj\Debug\net6.0\ValidateUsername.dll
+D:\Capgemini-Tranning\Assignments\Assignment21\ValidateUsername\obj\Debug\net6.0\refint\ValidateUsername.dll
+D:\Capgemini-Tranning\Assignments\Assignment21\ValidateUsername\obj\Debug\net6.0\ValidateUsername.pdb
+D:\Capgemini-Tranning\Assignments\Assignment21\ValidateUsername\obj\Debug\net6.0\ValidateUsername.genruntimeconfig.cache
+D:\Capgemini-Tranning\Assignments\Assignment21\ValidateUsername\obj\Debug\net6.0\ref\ValidateUsername.dll
