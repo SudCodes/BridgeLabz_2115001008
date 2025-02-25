@@ -1,0 +1,15 @@
+D:\Capgemini-Tranning\Assignments\Assignment22\Annotations\CustomAttribute\bin\Debug\net6.0\CustomAttribute.exe
+D:\Capgemini-Tranning\Assignments\Assignment22\Annotations\CustomAttribute\bin\Debug\net6.0\CustomAttribute.deps.json
+D:\Capgemini-Tranning\Assignments\Assignment22\Annotations\CustomAttribute\bin\Debug\net6.0\CustomAttribute.runtimeconfig.json
+D:\Capgemini-Tranning\Assignments\Assignment22\Annotations\CustomAttribute\bin\Debug\net6.0\CustomAttribute.dll
+D:\Capgemini-Tranning\Assignments\Assignment22\Annotations\CustomAttribute\bin\Debug\net6.0\CustomAttribute.pdb
+D:\Capgemini-Tranning\Assignments\Assignment22\Annotations\CustomAttribute\obj\Debug\net6.0\CustomAttribute.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini-Tranning\Assignments\Assignment22\Annotations\CustomAttribute\obj\Debug\net6.0\CustomAttribute.AssemblyInfoInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment22\Annotations\CustomAttribute\obj\Debug\net6.0\CustomAttribute.AssemblyInfo.cs
+D:\Capgemini-Tranning\Assignments\Assignment22\Annotations\CustomAttribute\obj\Debug\net6.0\CustomAttribute.csproj.CoreCompileInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment22\Annotations\CustomAttribute\obj\Debug\net6.0\CustomAttribute.sourcelink.json
+D:\Capgemini-Tranning\Assignments\Assignment22\Annotations\CustomAttribute\obj\Debug\net6.0\CustomAttribute.dll
+D:\Capgemini-Tranning\Assignments\Assignment22\Annotations\CustomAttribute\obj\Debug\net6.0\refint\CustomAttribute.dll
+D:\Capgemini-Tranning\Assignments\Assignment22\Annotations\CustomAttribute\obj\Debug\net6.0\CustomAttribute.pdb
+D:\Capgemini-Tranning\Assignments\Assignment22\Annotations\CustomAttribute\obj\Debug\net6.0\CustomAttribute.genruntimeconfig.cache
+D:\Capgemini-Tranning\Assignments\Assignment22\Annotations\CustomAttribute\obj\Debug\net6.0\ref\CustomAttribute.dll

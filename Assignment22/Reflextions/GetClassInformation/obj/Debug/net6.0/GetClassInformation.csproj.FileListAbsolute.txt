@@ -1,0 +1,15 @@
+D:\Capgemini-Tranning\Assignments\Assignment22\Reflextions\GetClassInformation\bin\Debug\net6.0\GetClassInformation.exe
+D:\Capgemini-Tranning\Assignments\Assignment22\Reflextions\GetClassInformation\bin\Debug\net6.0\GetClassInformation.deps.json
+D:\Capgemini-Tranning\Assignments\Assignment22\Reflextions\GetClassInformation\bin\Debug\net6.0\GetClassInformation.runtimeconfig.json
+D:\Capgemini-Tranning\Assignments\Assignment22\Reflextions\GetClassInformation\bin\Debug\net6.0\GetClassInformation.dll
+D:\Capgemini-Tranning\Assignments\Assignment22\Reflextions\GetClassInformation\bin\Debug\net6.0\GetClassInformation.pdb
+D:\Capgemini-Tranning\Assignments\Assignment22\Reflextions\GetClassInformation\obj\Debug\net6.0\GetClassInformation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini-Tranning\Assignments\Assignment22\Reflextions\GetClassInformation\obj\Debug\net6.0\GetClassInformation.AssemblyInfoInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment22\Reflextions\GetClassInformation\obj\Debug\net6.0\GetClassInformation.AssemblyInfo.cs
+D:\Capgemini-Tranning\Assignments\Assignment22\Reflextions\GetClassInformation\obj\Debug\net6.0\GetClassInformation.csproj.CoreCompileInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment22\Reflextions\GetClassInformation\obj\Debug\net6.0\GetClassInformation.sourcelink.json
+D:\Capgemini-Tranning\Assignments\Assignment22\Reflextions\GetClassInformation\obj\Debug\net6.0\GetClassInformation.dll
+D:\Capgemini-Tranning\Assignments\Assignment22\Reflextions\GetClassInformation\obj\Debug\net6.0\refint\GetClassInformation.dll
+D:\Capgemini-Tranning\Assignments\Assignment22\Reflextions\GetClassInformation\obj\Debug\net6.0\GetClassInformation.pdb
+D:\Capgemini-Tranning\Assignments\Assignment22\Reflextions\GetClassInformation\obj\Debug\net6.0\GetClassInformation.genruntimeconfig.cache
+D:\Capgemini-Tranning\Assignments\Assignment22\Reflextions\GetClassInformation\obj\Debug\net6.0\ref\GetClassInformation.dll

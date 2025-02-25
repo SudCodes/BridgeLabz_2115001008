@@ -1,0 +1,15 @@
+D:\Capgemini-Tranning\Assignments\Assignment22\Annotations\SuppressWarnings\bin\Debug\net6.0\SuppressWarnings.exe
+D:\Capgemini-Tranning\Assignments\Assignment22\Annotations\SuppressWarnings\bin\Debug\net6.0\SuppressWarnings.deps.json
+D:\Capgemini-Tranning\Assignments\Assignment22\Annotations\SuppressWarnings\bin\Debug\net6.0\SuppressWarnings.runtimeconfig.json
+D:\Capgemini-Tranning\Assignments\Assignment22\Annotations\SuppressWarnings\bin\Debug\net6.0\SuppressWarnings.dll
+D:\Capgemini-Tranning\Assignments\Assignment22\Annotations\SuppressWarnings\bin\Debug\net6.0\SuppressWarnings.pdb
+D:\Capgemini-Tranning\Assignments\Assignment22\Annotations\SuppressWarnings\obj\Debug\net6.0\SuppressWarnings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini-Tranning\Assignments\Assignment22\Annotations\SuppressWarnings\obj\Debug\net6.0\SuppressWarnings.AssemblyInfoInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment22\Annotations\SuppressWarnings\obj\Debug\net6.0\SuppressWarnings.AssemblyInfo.cs
+D:\Capgemini-Tranning\Assignments\Assignment22\Annotations\SuppressWarnings\obj\Debug\net6.0\SuppressWarnings.csproj.CoreCompileInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment22\Annotations\SuppressWarnings\obj\Debug\net6.0\SuppressWarnings.sourcelink.json
+D:\Capgemini-Tranning\Assignments\Assignment22\Annotations\SuppressWarnings\obj\Debug\net6.0\SuppressWarnings.dll
+D:\Capgemini-Tranning\Assignments\Assignment22\Annotations\SuppressWarnings\obj\Debug\net6.0\refint\SuppressWarnings.dll
+D:\Capgemini-Tranning\Assignments\Assignment22\Annotations\SuppressWarnings\obj\Debug\net6.0\SuppressWarnings.pdb
+D:\Capgemini-Tranning\Assignments\Assignment22\Annotations\SuppressWarnings\obj\Debug\net6.0\SuppressWarnings.genruntimeconfig.cache
+D:\Capgemini-Tranning\Assignments\Assignment22\Annotations\SuppressWarnings\obj\Debug\net6.0\ref\SuppressWarnings.dll

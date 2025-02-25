@@ -1,0 +1,15 @@
+D:\Capgemini-Tranning\Assignments\Assignment22\Annotations\ObsoleteAttribute\bin\Debug\net6.0\ObsoleteAttribute.exe
+D:\Capgemini-Tranning\Assignments\Assignment22\Annotations\ObsoleteAttribute\bin\Debug\net6.0\ObsoleteAttribute.deps.json
+D:\Capgemini-Tranning\Assignments\Assignment22\Annotations\ObsoleteAttribute\bin\Debug\net6.0\ObsoleteAttribute.runtimeconfig.json
+D:\Capgemini-Tranning\Assignments\Assignment22\Annotations\ObsoleteAttribute\bin\Debug\net6.0\ObsoleteAttribute.dll
+D:\Capgemini-Tranning\Assignments\Assignment22\Annotations\ObsoleteAttribute\bin\Debug\net6.0\ObsoleteAttribute.pdb
+D:\Capgemini-Tranning\Assignments\Assignment22\Annotations\ObsoleteAttribute\obj\Debug\net6.0\ObsoleteAttribute.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini-Tranning\Assignments\Assignment22\Annotations\ObsoleteAttribute\obj\Debug\net6.0\ObsoleteAttribute.AssemblyInfoInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment22\Annotations\ObsoleteAttribute\obj\Debug\net6.0\ObsoleteAttribute.AssemblyInfo.cs
+D:\Capgemini-Tranning\Assignments\Assignment22\Annotations\ObsoleteAttribute\obj\Debug\net6.0\ObsoleteAttribute.csproj.CoreCompileInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment22\Annotations\ObsoleteAttribute\obj\Debug\net6.0\ObsoleteAttribute.sourcelink.json
+D:\Capgemini-Tranning\Assignments\Assignment22\Annotations\ObsoleteAttribute\obj\Debug\net6.0\ObsoleteAttribute.dll
+D:\Capgemini-Tranning\Assignments\Assignment22\Annotations\ObsoleteAttribute\obj\Debug\net6.0\refint\ObsoleteAttribute.dll
+D:\Capgemini-Tranning\Assignments\Assignment22\Annotations\ObsoleteAttribute\obj\Debug\net6.0\ObsoleteAttribute.pdb
+D:\Capgemini-Tranning\Assignments\Assignment22\Annotations\ObsoleteAttribute\obj\Debug\net6.0\ObsoleteAttribute.genruntimeconfig.cache
+D:\Capgemini-Tranning\Assignments\Assignment22\Annotations\ObsoleteAttribute\obj\Debug\net6.0\ref\ObsoleteAttribute.dll

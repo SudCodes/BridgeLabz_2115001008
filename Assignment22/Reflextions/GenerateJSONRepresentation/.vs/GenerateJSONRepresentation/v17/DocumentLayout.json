@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Capgemini-Tranning\\Assignments\\Assignment22\\Reflextions\\GenerateJSONRepresentation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E485DB2-1C70-4BAE-9EB8-0F75D3AE3381}|GenerateJSONRepresentation.csproj|d:\\capgemini-tranning\\assignments\\assignment22\\reflextions\\generatejsonrepresentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E485DB2-1C70-4BAE-9EB8-0F75D3AE3381}|GenerateJSONRepresentation.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Capgemini-Tranning\\Assignments\\Assignment22\\Reflextions\\GenerateJSONRepresentation\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Capgemini-Tranning\\Assignments\\Assignment22\\Reflextions\\GenerateJSONRepresentation\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T16:02:50.14Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+D:\Capgemini-Tranning\Assignments\Assignment22\Reflextions\InvokePrivateMethod\bin\Debug\net6.0\InvokePrivateMethod.exe
+D:\Capgemini-Tranning\Assignments\Assignment22\Reflextions\InvokePrivateMethod\bin\Debug\net6.0\InvokePrivateMethod.deps.json
+D:\Capgemini-Tranning\Assignments\Assignment22\Reflextions\InvokePrivateMethod\bin\Debug\net6.0\InvokePrivateMethod.runtimeconfig.json
+D:\Capgemini-Tranning\Assignments\Assignment22\Reflextions\InvokePrivateMethod\bin\Debug\net6.0\InvokePrivateMethod.dll
+D:\Capgemini-Tranning\Assignments\Assignment22\Reflextions\InvokePrivateMethod\bin\Debug\net6.0\InvokePrivateMethod.pdb
+D:\Capgemini-Tranning\Assignments\Assignment22\Reflextions\InvokePrivateMethod\obj\Debug\net6.0\InvokePrivateMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini-Tranning\Assignments\Assignment22\Reflextions\InvokePrivateMethod\obj\Debug\net6.0\InvokePrivateMethod.AssemblyInfoInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment22\Reflextions\InvokePrivateMethod\obj\Debug\net6.0\InvokePrivateMethod.AssemblyInfo.cs
+D:\Capgemini-Tranning\Assignments\Assignment22\Reflextions\InvokePrivateMethod\obj\Debug\net6.0\InvokePrivateMethod.csproj.CoreCompileInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment22\Reflextions\InvokePrivateMethod\obj\Debug\net6.0\InvokePrivateMethod.sourcelink.json
+D:\Capgemini-Tranning\Assignments\Assignment22\Reflextions\InvokePrivateMethod\obj\Debug\net6.0\InvokePrivateMethod.dll
+D:\Capgemini-Tranning\Assignments\Assignment22\Reflextions\InvokePrivateMethod\obj\Debug\net6.0\refint\InvokePrivateMethod.dll
+D:\Capgemini-Tranning\Assignments\Assignment22\Reflextions\InvokePrivateMethod\obj\Debug\net6.0\InvokePrivateMethod.pdb
+D:\Capgemini-Tranning\Assignments\Assignment22\Reflextions\InvokePrivateMethod\obj\Debug\net6.0\InvokePrivateMethod.genruntimeconfig.cache
+D:\Capgemini-Tranning\Assignments\Assignment22\Reflextions\InvokePrivateMethod\obj\Debug\net6.0\ref\InvokePrivateMethod.dll
