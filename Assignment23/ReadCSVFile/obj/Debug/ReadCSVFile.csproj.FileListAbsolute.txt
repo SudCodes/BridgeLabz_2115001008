@@ -1,0 +1,7 @@
+D:\Capgemini-Tranning\Assignments\Assignment23\ReadCSVFile\bin\Debug\ReadCSVFile.exe.config
+D:\Capgemini-Tranning\Assignments\Assignment23\ReadCSVFile\bin\Debug\ReadCSVFile.exe
+D:\Capgemini-Tranning\Assignments\Assignment23\ReadCSVFile\bin\Debug\ReadCSVFile.pdb
+D:\Capgemini-Tranning\Assignments\Assignment23\ReadCSVFile\obj\Debug\ReadCSVFile.csproj.AssemblyReference.cache
+D:\Capgemini-Tranning\Assignments\Assignment23\ReadCSVFile\obj\Debug\ReadCSVFile.csproj.CoreCompileInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment23\ReadCSVFile\obj\Debug\ReadCSVFile.exe
+D:\Capgemini-Tranning\Assignments\Assignment23\ReadCSVFile\obj\Debug\ReadCSVFile.pdb

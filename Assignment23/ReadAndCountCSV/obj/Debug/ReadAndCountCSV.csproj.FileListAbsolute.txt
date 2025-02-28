@@ -1,0 +1,7 @@
+D:\Capgemini-Tranning\Assignments\Assignment23\ReadAndCountCSV\bin\Debug\ReadAndCountCSV.exe.config
+D:\Capgemini-Tranning\Assignments\Assignment23\ReadAndCountCSV\bin\Debug\ReadAndCountCSV.exe
+D:\Capgemini-Tranning\Assignments\Assignment23\ReadAndCountCSV\bin\Debug\ReadAndCountCSV.pdb
+D:\Capgemini-Tranning\Assignments\Assignment23\ReadAndCountCSV\obj\Debug\ReadAndCountCSV.csproj.AssemblyReference.cache
+D:\Capgemini-Tranning\Assignments\Assignment23\ReadAndCountCSV\obj\Debug\ReadAndCountCSV.csproj.CoreCompileInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment23\ReadAndCountCSV\obj\Debug\ReadAndCountCSV.exe
+D:\Capgemini-Tranning\Assignments\Assignment23\ReadAndCountCSV\obj\Debug\ReadAndCountCSV.pdb
