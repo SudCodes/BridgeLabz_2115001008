@@ -1,0 +1,10 @@
+D:\Capgemini-Tranning\Assignments\Assignment24\ListToJSONArray\bin\Debug\ListToJSONArray.exe.config
+D:\Capgemini-Tranning\Assignments\Assignment24\ListToJSONArray\bin\Debug\ListToJSONArray.exe
+D:\Capgemini-Tranning\Assignments\Assignment24\ListToJSONArray\bin\Debug\ListToJSONArray.pdb
+D:\Capgemini-Tranning\Assignments\Assignment24\ListToJSONArray\bin\Debug\Newtonsoft.Json.dll
+D:\Capgemini-Tranning\Assignments\Assignment24\ListToJSONArray\bin\Debug\Newtonsoft.Json.xml
+D:\Capgemini-Tranning\Assignments\Assignment24\ListToJSONArray\obj\Debug\ListToJSONArray.csproj.AssemblyReference.cache
+D:\Capgemini-Tranning\Assignments\Assignment24\ListToJSONArray\obj\Debug\ListToJSONArray.csproj.CoreCompileInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment24\ListToJSONArray\obj\Debug\ListToJS.92CBBBBE.Up2Date
+D:\Capgemini-Tranning\Assignments\Assignment24\ListToJSONArray\obj\Debug\ListToJSONArray.exe
+D:\Capgemini-Tranning\Assignments\Assignment24\ListToJSONArray\obj\Debug\ListToJSONArray.pdb

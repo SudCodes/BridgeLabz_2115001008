@@ -1,0 +1,10 @@
+D:\Capgemini-Tranning\Assignments\Assignment24\FilterJSON\bin\Debug\FilterJSON.exe.config
+D:\Capgemini-Tranning\Assignments\Assignment24\FilterJSON\bin\Debug\FilterJSON.exe
+D:\Capgemini-Tranning\Assignments\Assignment24\FilterJSON\bin\Debug\FilterJSON.pdb
+D:\Capgemini-Tranning\Assignments\Assignment24\FilterJSON\bin\Debug\Newtonsoft.Json.dll
+D:\Capgemini-Tranning\Assignments\Assignment24\FilterJSON\bin\Debug\Newtonsoft.Json.xml
+D:\Capgemini-Tranning\Assignments\Assignment24\FilterJSON\obj\Debug\FilterJSON.csproj.AssemblyReference.cache
+D:\Capgemini-Tranning\Assignments\Assignment24\FilterJSON\obj\Debug\FilterJSON.csproj.CoreCompileInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment24\FilterJSON\obj\Debug\FilterJSON.csproj.Up2Date
+D:\Capgemini-Tranning\Assignments\Assignment24\FilterJSON\obj\Debug\FilterJSON.exe
+D:\Capgemini-Tranning\Assignments\Assignment24\FilterJSON\obj\Debug\FilterJSON.pdb

@@ -1,0 +1,12 @@
+D:\Capgemini-Tranning\Assignments\Assignment24\ValidateJSONStructure\bin\Debug\ValidateJSONStructure.exe.config
+D:\Capgemini-Tranning\Assignments\Assignment24\ValidateJSONStructure\bin\Debug\ValidateJSONStructure.exe
+D:\Capgemini-Tranning\Assignments\Assignment24\ValidateJSONStructure\bin\Debug\ValidateJSONStructure.pdb
+D:\Capgemini-Tranning\Assignments\Assignment24\ValidateJSONStructure\bin\Debug\Newtonsoft.Json.dll
+D:\Capgemini-Tranning\Assignments\Assignment24\ValidateJSONStructure\bin\Debug\Newtonsoft.Json.Schema.dll
+D:\Capgemini-Tranning\Assignments\Assignment24\ValidateJSONStructure\bin\Debug\Newtonsoft.Json.xml
+D:\Capgemini-Tranning\Assignments\Assignment24\ValidateJSONStructure\bin\Debug\Newtonsoft.Json.Schema.xml
+D:\Capgemini-Tranning\Assignments\Assignment24\ValidateJSONStructure\obj\Debug\ValidateJSONStructure.csproj.AssemblyReference.cache
+D:\Capgemini-Tranning\Assignments\Assignment24\ValidateJSONStructure\obj\Debug\ValidateJSONStructure.csproj.CoreCompileInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment24\ValidateJSONStructure\obj\Debug\Validate.7283778E.Up2Date
+D:\Capgemini-Tranning\Assignments\Assignment24\ValidateJSONStructure\obj\Debug\ValidateJSONStructure.exe
+D:\Capgemini-Tranning\Assignments\Assignment24\ValidateJSONStructure\obj\Debug\ValidateJSONStructure.pdb

@@ -1,0 +1,10 @@
+{
+  "name": "Aman",
+  "age": 25,
+  "email": "achitransh@gmail.com",
+  "address": {
+    "city": "Bareilly",
+    "zip": "243302"
+  },
+  "skills": ["C#", "ASP.NET", "SQL"]
+}

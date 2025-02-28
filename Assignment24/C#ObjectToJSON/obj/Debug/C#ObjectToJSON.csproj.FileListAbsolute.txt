@@ -1,0 +1,10 @@
+D:\Capgemini-Tranning\Assignments\Assignment24\C#ObjectToJSON\bin\Debug\C#ObjectToJSON.exe.config
+D:\Capgemini-Tranning\Assignments\Assignment24\C#ObjectToJSON\bin\Debug\C#ObjectToJSON.exe
+D:\Capgemini-Tranning\Assignments\Assignment24\C#ObjectToJSON\bin\Debug\C#ObjectToJSON.pdb
+D:\Capgemini-Tranning\Assignments\Assignment24\C#ObjectToJSON\bin\Debug\Newtonsoft.Json.dll
+D:\Capgemini-Tranning\Assignments\Assignment24\C#ObjectToJSON\bin\Debug\Newtonsoft.Json.xml
+D:\Capgemini-Tranning\Assignments\Assignment24\C#ObjectToJSON\obj\Debug\C#ObjectToJSON.csproj.AssemblyReference.cache
+D:\Capgemini-Tranning\Assignments\Assignment24\C#ObjectToJSON\obj\Debug\C#ObjectToJSON.csproj.CoreCompileInputs.cache
+D:\Capgemini-Tranning\Assignments\Assignment24\C#ObjectToJSON\obj\Debug\C#Object.49341C32.Up2Date
+D:\Capgemini-Tranning\Assignments\Assignment24\C#ObjectToJSON\obj\Debug\C#ObjectToJSON.exe
+D:\Capgemini-Tranning\Assignments\Assignment24\C#ObjectToJSON\obj\Debug\C#ObjectToJSON.pdb
